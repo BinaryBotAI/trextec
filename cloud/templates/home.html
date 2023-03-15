@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Car Price Predictor</title>
+  </head>
+  <body>
+    <h1>Car Price Predictor</h1>
+    <p>Enter the details of the car you want to predict the price for:</p>
+    <form action="{{ url_for('predict') }}" method="post">
+      <label for="Make">Make:</label>
+      <input type="text" name="Make" required>
+      <br>
+      <label for="Model">Model:</label>
+      <input type="text" name="Model" required>
+      <br>
+      <label for="Year">Year:</label>
+      <input type="number" name="Year" required>
+      <br>
+      <label for="Fuel_Type">Fuel Type:</label>
+      <select name="Fuel_Type" required>
+        <option value="0">Diesel</option>
+        <option value="1">Electric</option>
+        <option value="2">Gas</option>
+        <option value="3">Hybrid</option>
+        <option value="4">Other</option>
+        <option value="5">Petrol</option>
+      </select>
+      <br>
+      <label for="HP">Horsepower:</label>
+      <input type="number" name="HP" step="any" required>
+      <br>
+      <label for="Transmission">Transmission:</label>
+      <select name="Transmission" required>
+        <option value="0">Automatic</option>
+        <option value="1">Manual</option>
+      </select>
+      <br>
+      <label for="Drive_Wheels">Drive Wheels:</label>
+      <select name="Drive_Wheels" required>
+        <option value="0">All Wheel Drive</option>
+        <option value="1">Four Wheel Drive</option>
+        <option value="2">Front Wheel Drive</option>
+        <option value="3">Rear Wheel Drive</option>
+      </select>
+      <br>
+      <label for="Vehicle_Size">Vehicle Size:</label>
+      <select name="Vehicle_Size" required>
+        <option value="0">Compact</option>
+        <option value="1">Large</option>
+        <option value="2">Midsize</option>
+      </select>
+      <br>
+      <label for="Vehicle_Style">Vehicle Style:</label>
+      <select name="Vehicle_Style" required>
+        <option value="0">Convertible</option>
+        <option value="1">Coupe</option>
+        <option value="2">Hatchback</option>
+        <option value="3">Sedan</option>
+        <option value="4">SUV / Crossover</option>
+        <option value="5">Truck</option>
+        <option value="6">Van / Minivan</option>
+        <option value="7">Wagon</option>
+      </select>
+      <br>
+      <label for="Popularity">Popularity:</label>
+      <input type="number" name="Popularity" required>
+      <br>
+      <label for="Engine_CC">Engine Displacement (cc):</label>
+      <input type="number" name="Engine_CC" step="any" required>
+      <br>
+      <input type="submit" value="Predict">
+    </form>
+    {% if prediction %}
+      <p>The predicted price is {{ prediction }}</p>
+    {% endif %}
+  </body>
+</html>

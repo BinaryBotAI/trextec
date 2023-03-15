@@ -1,0 +1,2315 @@
+Make,Model,Year,Engine Fuel Type,Engine HP,Transmission Type,Driven_Wheels,Vehicle Size,Vehicle Style,Popularity,MSRP,Price(Ksh),Engine CC(ltrs)
+Audi,100,1993,regular unleaded,172,MANUAL,all wheel drive,Midsize,Sedan,3105,2000,220000,2.3
+Audi,100,1994,regular unleaded,172,AUTOMATIC,front wheel drive,Midsize,Wagon,3105,2000,220000,2.3
+Audi,200,1990,regular unleaded,162,AUTOMATIC,front wheel drive,Midsize,Sedan,3105,2000,220000,1.8
+Audi,200,1991,regular unleaded,162,AUTOMATIC,front wheel drive,Midsize,Sedan,3105,2000,220000,1.8
+Audi,80,1990,regular unleaded,108,MANUAL,front wheel drive,Compact,Sedan,3105,2000,220000,1.6
+Audi,80,1990,regular unleaded,130,MANUAL,all wheel drive,Compact,Sedan,3105,2000,220000,1.6
+Audi,80,1991,regular unleaded,130,MANUAL,front wheel drive,Compact,Sedan,3105,2000,220000,1.9
+Audi,80,1992,regular unleaded,130,MANUAL,front wheel drive,Compact,Sedan,3105,2000,220000,1.6
+Audi,90,1993,regular unleaded,172,MANUAL,all wheel drive,Compact,Sedan,3105,2000,220000,2.3
+Audi,90,1994,regular unleaded,172,MANUAL,all wheel drive,Compact,Sedan,3105,2000,220000,2.3
+Audi,90,1995,regular unleaded,172,MANUAL,all wheel drive,Compact,Sedan,3105,2000,220000,2.3
+Audi,A3,2015,diesel,150,AUTOMATED_MANUAL,front wheel drive,Compact,Sedan,3105,35150,3866500,1.4
+Audi,A3,2015,premium unleaded (recommended),220,AUTOMATED_MANUAL,all wheel drive,Compact,Sedan,3105,33200,3652000,1.4
+Audi,A3,2015,premium unleaded (recommended),170,AUTOMATED_MANUAL,front wheel drive,Compact,Convertible,3105,44050,4845500,1.4
+Audi,A3,2016,premium unleaded (recommended),220,AUTOMATED_MANUAL,all wheel drive,Compact,Sedan,3105,34200,3762000,1.4
+Audi,A3,2016,diesel,150,AUTOMATED_MANUAL,front wheel drive,Compact,Sedan,3105,33200,3652000,1.4
+Audi,A3,2016,premium unleaded (recommended),170,AUTOMATED_MANUAL,front wheel drive,Compact,Convertible,3105,39300,4323000,1.4
+Audi,A3,2017,premium unleaded (recommended),220,AUTOMATED_MANUAL,all wheel drive,Compact,Sedan,3105,43150,4746500,1.4
+Audi,A3,2017,premium unleaded (recommended),186,AUTOMATED_MANUAL,front wheel drive,Compact,Sedan,3105,40150,4416500,1.4
+Audi,A4 allroad,2017,premium unleaded (recommended),252,AUTOMATED_MANUAL,all wheel drive,Midsize,Wagon,3105,51400,5654000,2.1
+Audi,A4,2015,premium unleaded (required),220,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,45000,4950000,2.1
+Audi,A4,2016,premium unleaded (required),220,MANUAL,all wheel drive,Midsize,Sedan,3105,37000,4070000,2.1
+Audi,Audi,Audi,Audi,252,AUTOMATED_MANUAL,front wheel drive,Midsize,Sedan,3105,37300,4103000,2.1
+Audi,A4,2017,premium unleaded (recommended),190,AUTOMATED_MANUAL,front wheel drive,Midsize,Sedan,3105,34900,3839000,2.8
+Audi,A5,2016,premium unleaded (required),220,AUTOMATIC,all wheel drive,Midsize,Coupe,3105,43800,4818000,2.8
+Audi,A5,2017,flex-fuel (premium unleaded recommended/E85),220,MANUAL,all wheel drive,Midsize,Coupe,3105,41200,4532000,2.8
+Audi,A6,2015,diesel,240,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,58700,6457000,2.8
+Audi,A6,2015,premium unleaded (recommended),220,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,50450,5549500,2.8
+Audi,A6,2015,premium unleaded (required),310,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,60100,6611000,2.8
+Audi,A6,2016,premium unleaded (recommended),252,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,52100,5731000,2.8
+Audi,A6,2016,diesel,240,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,59500,6545000,2.8
+Audi,A6,2016,premium unleaded (required),333,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,61600,6776000,2.8
+Audi,A6,2017,premium unleaded (recommended),252,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,53800,5918000,3.1
+Audi,A6,2017,premium unleaded (required),333,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,61600,6776000,3.1
+Audi,A6,2017,premium unleaded (required),340,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,67600,7436000,3.1
+Audi,A7,2015,premium unleaded (required),310,AUTOMATIC,all wheel drive,Large,Sedan,3105,65900,7249000,3.1
+Audi,A7,2015,diesel,240,AUTOMATIC,all wheel drive,Large,Sedan,3105,68300,7513000,3.1
+Audi,A7,2016,diesel,240,AUTOMATIC,all wheel drive,Large,Sedan,3105,70400,7744000,2
+Audi,A7,2016,premium unleaded (required),333,AUTOMATIC,all wheel drive,Large,Sedan,3105,68300,7513000,2
+Audi,A7,2017,premium unleaded (required),333,AUTOMATIC,all wheel drive,Large,Sedan,3105,68800,7568000,2
+Audi,A8,2016,diesel,240,AUTOMATIC,all wheel drive,Large,Sedan,3105,85200,9372000,3
+Audi,A8,2016,premium unleaded (required),500,AUTOMATIC,all wheel drive,Large,Sedan,3105,137900,15169000,3
+Audi,A8,2016,premium unleaded (required),450,AUTOMATIC,all wheel drive,Large,Sedan,3105,90500,9955000,3
+Audi,A8,2016,premium unleaded (required),333,AUTOMATIC,all wheel drive,Large,Sedan,3105,81500,8965000,3
+Audi,A8,2017,premium unleaded (required),450,AUTOMATIC,all wheel drive,Large,Sedan,3105,91500,10065000,3
+Audi,A8,2017,premium unleaded (required),333,AUTOMATIC,all wheel drive,Large,Sedan,3105,82500,9075000,3
+Audi,allroad quattro,2003,regular unleaded,250,MANUAL,all wheel drive,Midsize,Wagon,3105,39950,4394500,3
+Audi,allroad quattro,2004,regular unleaded,300,AUTOMATIC,all wheel drive,Midsize,Wagon,3105,46950,5164500,3
+Audi,allroad quattro,2004,regular unleaded,250,AUTOMATIC,all wheel drive,Midsize,Wagon,3105,39950,4394500,3
+Audi,allroad quattro,2005,regular unleaded,250,MANUAL,all wheel drive,Midsize,Wagon,3105,40250,4427500,2.2
+Audi,allroad quattro,2005,regular unleaded,300,AUTOMATIC,all wheel drive,Midsize,Wagon,3105,47250,5197500,3
+Audi,allroad,2014,premium unleaded (recommended),220,AUTOMATIC,all wheel drive,Midsize,Wagon,3105,40700,4477000,3
+Audi,allroad,2015,premium unleaded (recommended),220,AUTOMATIC,all wheel drive,Midsize,Wagon,3105,44500,4895000,3
+Audi,allroad,2016,premium unleaded (recommended),220,AUTOMATIC,all wheel drive,Midsize,Wagon,3105,42700,4697000,3
+Audi,Cabriolet,1996,regular unleaded,172,AUTOMATIC,front wheel drive,Compact,Convertible,3105,2631,289410,3
+Audi,Cabriolet,1997,regular unleaded,172,AUTOMATIC,front wheel drive,Compact,Convertible,3105,2837,312070,3
+Audi,Cabriolet,1998,regular unleaded,172,AUTOMATIC,front wheel drive,Compact,Convertible,3105,3137,345070,3
+Audi,Coupe,1990,regular unleaded,164,MANUAL,all wheel drive,Compact,2dr Hatchback,3105,2000,220000,3
+Audi,Coupe,1991,regular unleaded,164,MANUAL,all wheel drive,Compact,2dr Hatchback,3105,2000,220000,3
+Audi,Q3,2015,premium unleaded (recommended),200,AUTOMATIC,front wheel drive,Compact,4dr SUV,3105,32500,3575000,3
+Audi,Q3,2016,premium unleaded (recommended),200,AUTOMATIC,front wheel drive,Compact,4dr SUV,3105,38600,4246000,3
+Audi,Q3,2017,premium unleaded (recommended),200,AUTOMATIC,front wheel drive,Compact,4dr SUV,3105,34500,3795000,3
+Audi,Q5,2015,premium unleaded (required),272,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,52900,5819000,3
+Audi,Q5,2015,diesel,240,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,47500,5225000,3
+Audi,Q5,2015,premium unleaded (required),245,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,51900,5709000,3
+Audi,Q5,2015,premium unleaded (required),220,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,42200,4642000,4.4
+Audi,Q5,2016,premium unleaded (required),272,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,53500,5885000,3.3
+Audi,Q5,2016,premium unleaded (required),220,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,40900,4499000,4.4
+Audi,Q5,2016,premium unleaded (required),245,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,52500,5775000,4.4
+Audi,Q5,2016,diesel,240,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,48100,5291000,4.4
+Audi,Q5,2017,premium unleaded (required),272,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,53200,5852000,4.4
+Audi,Q5,2017,flex-fuel (premium unleaded recommended/E85),220,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,40900,4499000,4.4
+Audi,Q7,2014,diesel,240,AUTOMATIC,all wheel drive,Large,4dr SUV,3105,64900,7139000,3
+Audi,Q7,2014,premium unleaded (required),333,AUTOMATIC,all wheel drive,Large,4dr SUV,3105,60900,6699000,1.5
+Audi,Q7,2014,premium unleaded (required),280,AUTOMATIC,all wheel drive,Large,4dr SUV,3105,47700,5247000,1.5
+Audi,Q7,2015,premium unleaded (required),333,AUTOMATIC,all wheel drive,Large,4dr SUV,3105,61900,6809000,1.5
+Audi,Q7,2015,diesel,240,AUTOMATIC,all wheel drive,Large,4dr SUV,3105,53400,5874000,1.5
+Audi,Q7,2015,premium unleaded (required),280,AUTOMATIC,all wheel drive,Large,4dr SUV,3105,54800,6028000,2.9
+Audi,Q7,2017,premium unleaded (required),333,AUTOMATIC,all wheel drive,Large,4dr SUV,3105,58800,6468000,2.9
+Audi,R8,2014,premium unleaded (required),525,MANUAL,all wheel drive,Compact,Convertible,3105,164700,18117000,2.9
+Audi,R8,2014,premium unleaded (required),430,MANUAL,all wheel drive,Compact,Convertible,3105,128400,14124000,2.9
+Audi,R8,2014,premium unleaded (required),550,AUTOMATED_MANUAL,all wheel drive,Compact,Coupe,3105,179645,19760950,2.9
+Audi,R8,2015,premium unleaded (required),550,AUTOMATED_MANUAL,all wheel drive,Compact,Convertible,3105,199600,21956000,2.9
+Audi,R8,2015,premium unleaded (required),430,AUTOMATED_MANUAL,all wheel drive,Compact,Convertible,3105,138400,15224000,2.9
+Audi,R8,2015,premium unleaded (required),525,MANUAL,all wheel drive,Compact,Convertible,3105,166100,18271000,2.9
+Audi,R8,2015,premium unleaded (required),570,AUTOMATED_MANUAL,all wheel drive,Compact,Coupe,3105,199900,21989000,2.9
+Audi,R8,2017,premium unleaded (required),540,AUTOMATED_MANUAL,all wheel drive,Compact,Coupe,3105,162900,17919000,3
+Audi,R8,2017,premium unleaded (required),610,AUTOMATED_MANUAL,all wheel drive,Compact,Coupe,3105,189900,20889000,3
+Audi,RS 4,2007,premium unleaded (required),420,MANUAL,all wheel drive,Compact,Sedan,3105,66000,7260000,3
+Audi,RS 4,2008,premium unleaded (required),420,MANUAL,all wheel drive,Compact,Convertible,3105,81900,9009000,3
+Audi,RS 5,2013,premium unleaded (required),450,AUTOMATED_MANUAL,all wheel drive,Midsize,Convertible,3105,77900,8569000,3
+Audi,RS 5,2014,premium unleaded (required),450,AUTOMATED_MANUAL,all wheel drive,Midsize,Coupe,3105,69600,7656000,3
+Audi,RS 5,2015,premium unleaded (required),450,AUTOMATED_MANUAL,all wheel drive,Midsize,Convertible,3105,79200,8712000,1.5
+Audi,RS 6,2003,premium unleaded (required),450,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,82700,9097000,1.5
+Audi,RS 7,2015,premium unleaded (required),560,AUTOMATIC,all wheel drive,Large,Sedan,3105,106500,11715000,1.5
+Audi,RS 7,2016,premium unleaded (required),560,AUTOMATIC,all wheel drive,Large,Sedan,3105,108900,11979000,5
+Audi,RS 7,2017,premium unleaded (required),560,AUTOMATIC,all wheel drive,Large,Sedan,3105,110700,12177000,5
+Audi,S3,2015,premium unleaded (required),292,AUTOMATED_MANUAL,all wheel drive,Compact,Sedan,3105,41100,4521000,5
+Audi,S3,2016,premium unleaded (required),292,AUTOMATED_MANUAL,all wheel drive,Compact,Sedan,3105,42500,4675000,5
+Audi,S3,2017,premium unleaded (required),292,AUTOMATED_MANUAL,all wheel drive,Compact,Sedan,3105,48400,5324000,5
+Audi,S4,2014,premium unleaded (required),333,AUTOMATED_MANUAL,all wheel drive,Midsize,Sedan,3105,49500,5445000,5
+Audi,S4,2015,premium unleaded (required),333,MANUAL,all wheel drive,Midsize,Sedan,3105,48400,5324000,5
+Audi,S4,2016,premium unleaded (required),333,AUTOMATED_MANUAL,all wheel drive,Midsize,Sedan,3105,56100,6171000,5
+Audi,S5,2016,premium unleaded (required),333,AUTOMATED_MANUAL,all wheel drive,Midsize,Convertible,3105,67350,7408500,5
+Audi,S5,2017,premium unleaded (required),333,MANUAL,all wheel drive,Midsize,Coupe,3105,53100,5841000,5
+Audi,S6,2015,premium unleaded (required),420,AUTOMATED_MANUAL,all wheel drive,Midsize,Sedan,3105,75500,8305000,5
+Audi,S6,2016,premium unleaded (required),450,AUTOMATED_MANUAL,all wheel drive,Midsize,Sedan,3105,70900,7799000,5
+Audi,S6,2017,premium unleaded (required),450,AUTOMATED_MANUAL,all wheel drive,Midsize,Sedan,3105,74100,8151000,1.6
+Audi,S7,2015,premium unleaded (required),420,AUTOMATED_MANUAL,all wheel drive,Large,Sedan,3105,82500,9075000,1.6
+Audi,S7,2016,premium unleaded (required),450,AUTOMATED_MANUAL,all wheel drive,Large,Sedan,3105,82900,9119000,1.6
+Audi,S7,2017,premium unleaded (required),450,AUTOMATED_MANUAL,all wheel drive,Large,Sedan,3105,82900,9119000,1.6
+Audi,S8,2015,premium unleaded (required),520,AUTOMATIC,all wheel drive,Large,Sedan,3105,114900,12639000,1.6
+Audi,S8,2016,premium unleaded (required),520,AUTOMATIC,all wheel drive,Large,Sedan,3105,114900,12639000,1.6
+Audi,S8,2016,premium unleaded (required),605,AUTOMATIC,all wheel drive,Large,Sedan,3105,114900,12639000,1.6
+Audi,S8,2017,premium unleaded (recommended),605,AUTOMATIC,all wheel drive,Large,Sedan,3105,115900,12749000,1.6
+Audi,SQ5,2015,premium unleaded (required),354,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,52700,5797000,1.6
+Audi,SQ5,2016,premium unleaded (required),354,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,53300,5863000,1.6
+Audi,SQ5,2017,premium unleaded (required),354,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3105,60800,6688000,5
+Audi,TT RS,2012,premium unleaded (required),360,MANUAL,all wheel drive,Compact,Coupe,3105,56850,6253500,5
+Audi,TT RS,2013,premium unleaded (required),360,MANUAL,all wheel drive,Compact,Coupe,3105,57200,6292000,5
+Audi,TT,2015,premium unleaded (recommended),211,AUTOMATED_MANUAL,all wheel drive,Compact,Convertible,3105,43350,4768500,5
+Audi,TT,2016,premium unleaded (recommended),220,AUTOMATED_MANUAL,all wheel drive,Compact,Coupe,3105,42900,4719000,5
+Audi,TT,2017,premium unleaded (recommended),220,AUTOMATED_MANUAL,all wheel drive,Compact,Convertible,3105,47000,5170000,5
+Audi,TTS,2015,premium unleaded (required),265,AUTOMATED_MANUAL,all wheel drive,Compact,Convertible,3105,51700,5687000,5
+Audi,TTS,2016,premium unleaded (required),292,AUTOMATED_MANUAL,all wheel drive,Compact,Coupe,3105,51900,5709000,5
+Audi,TTS,2017,premium unleaded (required),292,AUTOMATED_MANUAL,all wheel drive,Compact,Coupe,3105,52500,5775000,5
+Audi,V8,1992,regular unleaded,276,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,2000,220000,2.3
+Audi,V8,1993,regular unleaded,276,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,2149,236390,2.3
+Audi,V8,1994,regular unleaded,276,AUTOMATIC,all wheel drive,Midsize,Sedan,3105,2239,246290,2.3
+Audi,1 Series,2011,premium unleaded (required),300,MANUAL,rear wheel drive,Compact,Convertible,3916,40650,4471500,2.3
+Audi,1 Series,2012,premium unleaded (required),230,MANUAL,rear wheel drive,Compact,Convertible,3916,36900,4059000,2.3
+Audi,1 Series,2013,premium unleaded (required),320,MANUAL,rear wheel drive,Compact,Coupe,3916,43550,4790500,2.3
+Audi,2 Series,2016,premium unleaded (required),320,AUTOMATIC,rear wheel drive,Compact,Convertible,3916,50750,5582500,1.6
+Audi,2 Series,2017,premium unleaded (recommended),335,AUTOMATIC,all wheel drive,Compact,Coupe,3916,46450,5109500,1.6
+Audi,3 Series Gran Turismo,2015,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr Hatchback,3916,47250,5197500,1.6
+Audi,3 Series Gran Turismo,2015,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,4dr Hatchback,3916,41850,4603500,1.6
+Audi,3 Series Gran Turismo,2016,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,4dr Hatchback,3916,43000,4730000,1.6
+Audi,3 Series Gran Turismo,2016,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr Hatchback,3916,49200,5412000,1.6
+Audi,3 Series Gran Turismo,2017,premium unleaded (required),320,AUTOMATIC,all wheel drive,Midsize,4dr Hatchback,3916,49650,5461500,1.6
+Audi,3 Series Gran Turismo,2017,premium unleaded (required),248,AUTOMATIC,all wheel drive,Midsize,4dr Hatchback,3916,43950,4834500,1.6
+Audi,3 Series,2015,premium unleaded (required),241,AUTOMATIC,all wheel drive,Midsize,Wagon,3916,41950,4614500,2.4
+Audi,3 Series,2015,premium unleaded (required),335,AUTOMATIC,rear wheel drive,Midsize,Sedan,3916,50150,5516500,2.4
+Audi,3 Series,2015,premium unleaded (required),240,AUTOMATIC,rear wheel drive,Midsize,Sedan,3916,37500,4125000,2.4
+Audi,3 Series,2015,premium unleaded (required),300,AUTOMATIC,rear wheel drive,Midsize,Sedan,3916,43750,4812500,1.5
+Audi,3 Series,2015,diesel,180,AUTOMATIC,rear wheel drive,Midsize,Sedan,3916,39000,4290000,1.5
+Audi,3 Series,2016,diesel,180,AUTOMATIC,all wheel drive,Midsize,Sedan,3916,41850,4603500,1.5
+Audi,3 Series,2016,premium unleaded (required),320,AUTOMATIC,all wheel drive,Midsize,Sedan,3916,47800,5258000,1.4
+Audi,3 Series,2016,premium unleaded (required),240,AUTOMATIC,rear wheel drive,Midsize,Sedan,3916,38350,4218500,1.4
+Audi,3 Series,2017,premium unleaded (recommended),248,AUTOMATIC,rear wheel drive,Midsize,Sedan,3916,38750,4262500,1.4
+Audi,3 Series,2017,premium unleaded (recommended),180,AUTOMATIC,all wheel drive,Midsize,Sedan,3916,35450,3899500,1.8
+Audi,3 Series,2017,premium unleaded (recommended),320,AUTOMATIC,all wheel drive,Midsize,Sedan,3916,49900,5489000,1.8
+Audi,4 Series Gran Coupe,2015,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,Sedan,3916,42300,4653000,1.8
+Audi,4 Series Gran Coupe,2015,premium unleaded (required),300,AUTOMATIC,rear wheel drive,Midsize,Sedan,3916,45800,5038000,3.3
+Audi,4 Series Gran Coupe,2016,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,Sedan,3916,43650,4801500,3.3
+Audi,4 Series Gran Coupe,2016,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,Sedan,3916,49950,5494500,3.3
+Audi,4 Series Gran Coupe,2017,premium unleaded (recommended),320,AUTOMATIC,rear wheel drive,Midsize,Sedan,3916,48300,5313000,2
+Audi,4 Series Gran Coupe,2017,premium unleaded (recommended),248,AUTOMATIC,all wheel drive,Midsize,Sedan,3916,43950,4834500,2
+Audi,4 Series,2015,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,Convertible,3916,56900,6259000,2
+Audi,4 Series,2015,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,Convertible,3916,50750,5582500,2
+Audi,4 Series,2016,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,Convertible,3916,52000,5720000,2
+Audi,4 Series,2016,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,Coupe,3916,50150,5516500,2
+Audi,4 Series,2017,premium unleaded (recommended),248,AUTOMATIC,rear wheel drive,Midsize,Convertible,3916,50300,5533000,2
+Audi,4 Series,2017,premium unleaded (recommended),320,AUTOMATIC,all wheel drive,Midsize,Coupe,3916,50500,5555000,3.3
+Audi,5 Series Gran Turismo,2015,premium unleaded (required),300,AUTOMATIC,rear wheel drive,Large,4dr Hatchback,3916,60700,6677000,3.3
+Audi,5 Series Gran Turismo,2015,premium unleaded (required),445,AUTOMATIC,all wheel drive,Large,4dr Hatchback,3916,71400,7854000,3.3
+Audi,5 Series Gran Turismo,2016,premium unleaded (required),300,AUTOMATIC,all wheel drive,Large,4dr Hatchback,3916,63200,6952000,3.3
+BMW,5 Series Gran Turismo,2016,premium unleaded (required),445,AUTOMATIC,all wheel drive,Large,4dr Hatchback,3916,72500,7975000,3.3
+BMW,5 Series Gran Turismo,2017,premium unleaded (required),300,AUTOMATIC,all wheel drive,Large,4dr Hatchback,3916,63200,6952000,3.3
+BMW,5 Series Gran Turismo,2017,premium unleaded (required),445,AUTOMATIC,all wheel drive,Large,4dr Hatchback,3916,72500,7975000,3.3
+BMW,5 Series,2015,premium unleaded (required),443,AUTOMATIC,all wheel drive,Large,Sedan,3916,67200,7392000,3.3
+BMW,5 Series,2015,premium unleaded (required),302,AUTOMATIC,all wheel drive,Large,Sedan,3916,57900,6369000,2
+BMW,5 Series,2015,diesel,255,AUTOMATIC,rear wheel drive,Large,Sedan,3916,57100,6281000,2
+BMW,5 Series,2015,premium unleaded (required),241,AUTOMATIC,all wheel drive,Large,Sedan,3916,52250,5747500,2
+BMW,5 Series,2016,diesel,255,AUTOMATIC,rear wheel drive,Large,Sedan,3916,57350,6308500,2
+BMW,5 Series,2016,premium unleaded (required),302,AUTOMATIC,all wheel drive,Large,Sedan,3916,58150,6396500,2
+BMW,5 Series,2016,premium unleaded (required),240,AUTOMATIC,all wheel drive,Large,Sedan,3916,52500,5775000,4
+BMW,5 Series,2016,premium unleaded (required),443,AUTOMATIC,all wheel drive,Large,Sedan,3916,68600,7546000,4
+BMW,6 Series Gran Coupe,2015,premium unleaded (required),445,AUTOMATIC,all wheel drive,Large,Sedan,3916,92600,10186000,4
+BMW,6 Series Gran Coupe,2015,premium unleaded (required),315,AUTOMATIC,all wheel drive,Large,Sedan,3916,81300,8943000,2
+BMW,6 Series Gran Coupe,2016,premium unleaded (required),445,AUTOMATIC,all wheel drive,Large,Sedan,3916,93900,10329000,2
+BMW,6 Series Gran Coupe,2016,premium unleaded (required),315,AUTOMATIC,all wheel drive,Large,Sedan,3916,82500,9075000,2
+BMW,6 Series Gran Coupe,2017,premium unleaded (required),445,AUTOMATIC,rear wheel drive,Large,Sedan,3916,91200,10032000,6
+BMW,6 Series Gran Coupe,2017,premium unleaded (required),315,AUTOMATIC,all wheel drive,Large,Sedan,3916,82800,9108000,6
+BMW,6 Series,2015,premium unleaded (required),445,AUTOMATIC,rear wheel drive,Midsize,Convertible,3916,94900,10439000,6
+BMW,6 Series,2015,premium unleaded (required),315,AUTOMATIC,all wheel drive,Midsize,Convertible,3916,86600,9526000,6
+BMW,6 Series,2016,premium unleaded (required),315,AUTOMATIC,all wheel drive,Midsize,Convertible,3916,87800,9658000,6
+BMW,6 Series,2016,premium unleaded (required),445,AUTOMATIC,all wheel drive,Midsize,Convertible,3916,99200,10912000,6
+BMW,6 Series,2017,premium unleaded (required),445,AUTOMATIC,all wheel drive,Midsize,Coupe,3916,92000,10120000,6
+BMW,6 Series,2017,premium unleaded (required),315,AUTOMATIC,rear wheel drive,Midsize,Coupe,3916,77600,8536000,6
+BMW,7 Series,2015,premium unleaded (required),535,AUTOMATIC,rear wheel drive,Large,Sedan,3916,141200,15532000,6
+BMW,7 Series,2015,premium unleaded (required),315,AUTOMATIC,rear wheel drive,Large,Sedan,3916,78000,8580000,3
+BMW,7 Series,2015,premium unleaded (required),445,AUTOMATIC,rear wheel drive,Large,Sedan,3916,91000,10010000,3
+BMW,7 Series,2015,diesel,255,AUTOMATIC,all wheel drive,Large,Sedan,3916,82500,9075000,3
+BMW,7 Series,2016,premium unleaded (required),445,AUTOMATIC,rear wheel drive,Large,Sedan,3916,94400,10384000,3
+BMW,7 Series,2016,premium unleaded (required),320,AUTOMATIC,rear wheel drive,Large,Sedan,3916,81300,8943000,3
+BMW,7 Series,2017,premium unleaded (required),445,AUTOMATIC,rear wheel drive,Large,Sedan,3916,94600,10406000,3
+BMW,7 Series,2017,premium unleaded (required),320,AUTOMATIC,all wheel drive,Large,Sedan,3916,84500,9295000,3
+BMW,8 Series,1995,regular unleaded,282,AUTOMATIC,rear wheel drive,Midsize,Coupe,3916,4784,526240,3
+BMW,8 Series,1995,regular unleaded,322,AUTOMATIC,rear wheel drive,Midsize,Coupe,3916,5858,644380,3
+BMW,8 Series,1995,regular unleaded,372,MANUAL,rear wheel drive,Midsize,Coupe,3916,8488,933680,1.8
+BMW,8 Series,1996,regular unleaded,322,AUTOMATIC,rear wheel drive,Midsize,Coupe,3916,6954,764940,1.8
+BMW,8 Series,1996,regular unleaded,282,AUTOMATIC,rear wheel drive,Midsize,Coupe,3916,5680,624800,1.8
+BMW,8 Series,1997,regular unleaded,322,AUTOMATIC,rear wheel drive,Midsize,Coupe,3916,7624,838640,3
+BMW,8 Series,1997,regular unleaded,282,AUTOMATIC,rear wheel drive,Midsize,Coupe,3916,6693,736230,3
+BMW,ActiveHybrid 5,2014,premium unleaded (required),335,AUTOMATIC,rear wheel drive,Large,Sedan,3916,61400,6754000,3
+BMW,ActiveHybrid 5,2015,premium unleaded (required),335,AUTOMATIC,rear wheel drive,Large,Sedan,3916,61900,6809000,3.3
+BMW,ActiveHybrid 5,2016,premium unleaded (required),335,AUTOMATIC,rear wheel drive,Large,Sedan,3916,62100,6831000,3.3
+BMW,ActiveHybrid 7,2013,premium unleaded (required),350,AUTOMATIC,rear wheel drive,Large,Sedan,3916,84300,9273000,3.3
+BMW,ActiveHybrid 7,2014,premium unleaded (required),350,AUTOMATIC,rear wheel drive,Large,Sedan,3916,84300,9273000,3.5
+BMW,ActiveHybrid 7,2015,premium unleaded (required),335,AUTOMATIC,rear wheel drive,Large,Sedan,3916,84300,9273000,3.5
+BMW,ActiveHybrid X6,2010,premium unleaded (required),480,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,88900,9779000,3.5
+BMW,ActiveHybrid X6,2011,premium unleaded (required),480,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,88900,9779000,3
+BMW,ALPINA B6 Gran Coupe,2015,premium unleaded (required),540,AUTOMATIC,all wheel drive,Large,Sedan,3916,117300,12903000,3
+BMW,ALPINA B6 Gran Coupe,2016,premium unleaded (required),600,AUTOMATIC,all wheel drive,Large,Sedan,3916,122200,13442000,3
+BMW,ALPINA B6 Gran Coupe,2017,premium unleaded (required),600,AUTOMATIC,all wheel drive,Large,Sedan,3916,122500,13475000,3.5
+BMW,ALPINA B7,2014,premium unleaded (required),540,AUTOMATIC,all wheel drive,Large,Sedan,3916,135200,14872000,3.5
+BMW,ALPINA B7,2015,premium unleaded (required),540,AUTOMATIC,rear wheel drive,Large,Sedan,3916,132200,14542000,3.5
+BMW,ALPINA B7,2017,premium unleaded (required),600,AUTOMATIC,all wheel drive,Large,Sedan,3916,137000,15070000,6.3
+BMW,Alpina,2003,premium unleaded (required),375,AUTOMATIC,rear wheel drive,Compact,Convertible,3916,136900,15059000,6.3
+BMW,i3,2015,electric,170,DIRECT_DRIVE,rear wheel drive,Compact,4dr Hatchback,3916,42400,4664000,6.3
+BMW,i3,2016,electric,170,DIRECT_DRIVE,rear wheel drive,Compact,4dr Hatchback,3916,42400,4664000,4.3
+BMW,i3,2017,electric,170,DIRECT_DRIVE,rear wheel drive,Compact,4dr Hatchback,3916,42400,4664000,4.3
+BMW,M2,2016,premium unleaded (required),365,MANUAL,rear wheel drive,Compact,Coupe,3916,51700,5687000,4.3
+BMW,M2,2017,premium unleaded (required),365,MANUAL,rear wheel drive,Compact,Coupe,3916,51700,5687000,4.6
+BMW,M3,2015,premium unleaded (required),425,MANUAL,rear wheel drive,Midsize,Sedan,3916,62000,6820000,4.6
+BMW,M3,2016,premium unleaded (required),425,MANUAL,rear wheel drive,Midsize,Sedan,3916,63500,6985000,4.6
+BMW,M3,2017,premium unleaded (required),425,MANUAL,rear wheel drive,Midsize,Sedan,3916,64000,7040000,4.7
+BMW,M4 GTS,2016,premium unleaded (required),493,AUTOMATED_MANUAL,rear wheel drive,Midsize,Coupe,3916,133205,14652550,4.7
+BMW,M4,2015,premium unleaded (required),425,MANUAL,rear wheel drive,Midsize,Coupe,3916,64200,7062000,4.7
+BMW,M4,2016,premium unleaded (required),425,MANUAL,rear wheel drive,Midsize,Convertible,3916,74200,8162000,2.2
+BMW,M4,2017,premium unleaded (required),425,MANUAL,rear wheel drive,Midsize,Convertible,3916,74700,8217000,2.2
+BMW,M5,2014,premium unleaded (required),552,AUTOMATED_MANUAL,rear wheel drive,Large,Sedan,3916,92900,10219000,2.2
+BMW,M5,2015,premium unleaded (required),560,AUTOMATED_MANUAL,rear wheel drive,Large,Sedan,3916,93600,10296000,2
+BMW,M5,2016,premium unleaded (required),560,AUTOMATED_MANUAL,rear wheel drive,Large,Sedan,3916,94100,10351000,2
+BMW,M6 Gran Coupe,2015,premium unleaded (required),560,AUTOMATED_MANUAL,rear wheel drive,Large,Sedan,3916,115700,12727000,2
+BMW,M6 Gran Coupe,2016,premium unleaded (required),552,AUTOMATED_MANUAL,rear wheel drive,Large,Sedan,3916,117200,12892000,4
+BMW,M6 Gran Coupe,2017,premium unleaded (required),560,AUTOMATED_MANUAL,rear wheel drive,Large,Sedan,3916,117500,12925000,4
+BMW,M6,2015,premium unleaded (required),560,AUTOMATED_MANUAL,rear wheel drive,Midsize,Convertible,3916,118200,13002000,4
+BMW,M6,2016,premium unleaded (required),552,AUTOMATED_MANUAL,rear wheel drive,Midsize,Convertible,3916,119700,13167000,4.3
+BMW,M6,2017,premium unleaded (required),560,AUTOMATED_MANUAL,rear wheel drive,Midsize,Coupe,3916,113700,12507000,4.3
+BMW,M,2001,premium unleaded (required),315,MANUAL,rear wheel drive,Compact,Coupe,3916,44990,4948900,4.3
+BMW,M,2002,premium unleaded (required),315,MANUAL,rear wheel drive,Compact,Coupe,3916,44990,4948900,4.6
+BMW,M,2006,premium unleaded (required),330,MANUAL,rear wheel drive,Compact,Coupe,3916,49300,5423000,4.6
+BMW,X1,2015,premium unleaded (required),240,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,3916,31200,3432000,4.6
+BMW,X1,2015,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,39100,4301000,4.6
+BMW,X1,2016,premium unleaded (required),228,AUTOMATIC,all wheel drive,Compact,4dr SUV,3916,34800,3828000,4.6
+BMW,X1,2017,premium unleaded (required),228,AUTOMATIC,front wheel drive,Compact,4dr SUV,3916,33100,3641000,4.6
+BMW,X3,2015,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,45500,5005000,4.5
+BMW,X3,2015,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,40500,4455000,4.5
+BMW,X3,2015,diesel,180,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,42000,4620000,4.7
+BMW,X3,2016,premium unleaded (required),240,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,3916,38950,4284500,4.7
+BMW,X3,2016,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,46800,5148000,4.7
+BMW,X3,2016,diesel,180,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,42450,4669500,5.7
+BMW,X3,2017,diesel,180,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,42750,4702500,5.7
+BMW,X3,2017,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,47950,5274500,5.7
+BMW,X3,2017,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,41250,4537500,2.5
+BMW,X4,2015,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,44700,4917000,2.5
+BMW,X4,2015,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,48000,5280000,2.5
+BMW,X4,2016,premium unleaded (required),360,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,57800,6358000,3.5
+BMW,X4,2016,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,45250,4977500,3.5
+BMW,X4,2016,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,49700,5467000,3.5
+BMW,X4,2017,premium unleaded (required),355,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,58100,6391000,3.5
+BMW,X4,2017,premium unleaded (required),240,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,45550,5010500,3.5
+BMW,X5 M,2015,premium unleaded (required),567,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,98700,10857000,2
+BMW,X5 M,2016,premium unleaded (required),567,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,98800,10868000,2
+BMW,X5 M,2017,premium unleaded (required),567,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,98800,10868000,3.3
+BMW,X5,2015,diesel,255,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,57700,6347000,3.3
+BMW,X5,2015,premium unleaded (required),300,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,3916,53900,5929000,3.3
+BMW,X5,2015,premium unleaded (required),445,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,70100,7711000,3.5
+BMW,X5,2016,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,57000,6270000,3.5
+BMW,X5,2016,premium unleaded (required),445,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,71500,7865000,3.5
+BMW,X5,2016,diesel,255,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,57700,6347000,1.5
+BMW,X5,2017,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,57800,6358000,1.5
+BMW,X5,2017,diesel,255,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,59300,6523000,2
+BMW,X5,2017,premium unleaded (required),445,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,72300,7953000,2
+BMW,X6 M,2015,premium unleaded (required),567,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,102100,11231000,2
+BMW,X6 M,2016,premium unleaded (required),567,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,102200,11242000,2
+BMW,X6 M,2017,premium unleaded (required),567,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,102200,11242000,2
+BMW,X6,2015,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,61900,6809000,2
+BMW,X6,2015,premium unleaded (required),445,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,72900,8019000,2.5
+BMW,X6,2016,premium unleaded (required),300,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,62900,6919000,2.5
+BMW,X6,2016,premium unleaded (required),445,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,75300,8283000,2.5
+BMW,X6,2017,premium unleaded (required),300,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,3916,61400,6754000,3
+BMW,X6,2017,premium unleaded (required),445,AUTOMATIC,all wheel drive,Midsize,4dr SUV,3916,76100,8371000,4
+BMW,Z3,2000,regular unleaded,193,MANUAL,rear wheel drive,Compact,Convertible,3916,4976,547360,5
+BMW,Z3,2000,regular unleaded,170,MANUAL,rear wheel drive,Compact,Convertible,3916,4755,523050,4
+BMW,Z3,2001,premium unleaded (required),225,MANUAL,rear wheel drive,Compact,Convertible,3916,37900,4169000,4
+BMW,Z3,2001,premium unleaded (required),184,MANUAL,rear wheel drive,Compact,Convertible,3916,31300,3443000,4
+BMW,Z3,2002,premium unleaded (required),225,MANUAL,rear wheel drive,Compact,Convertible,3916,37900,4169000,1.6
+BMW,Z3,2002,premium unleaded (required),184,MANUAL,rear wheel drive,Compact,Convertible,3916,31300,3443000,1.6
+BMW,Z4 M,2007,premium unleaded (required),330,MANUAL,rear wheel drive,Compact,Coupe,3916,50100,5511000,1.6
+BMW,Z4 M,2008,premium unleaded (required),330,MANUAL,rear wheel drive,Compact,Coupe,3916,50400,5544000,1.6
+BMW,Z4,2014,premium unleaded (required),240,MANUAL,rear wheel drive,Compact,Convertible,3916,48950,5384500,1.6
+BMW,Z4,2014,premium unleaded (required),300,MANUAL,rear wheel drive,Compact,Convertible,3916,56950,6264500,1.6
+BMW,Z4,2014,premium unleaded (required),335,AUTOMATED_MANUAL,rear wheel drive,Compact,Convertible,3916,65800,7238000,1.6
+BMW,Z4,2015,premium unleaded (required),240,MANUAL,rear wheel drive,Compact,Convertible,3916,48950,5384500,1.6
+BMW,Z4,2015,premium unleaded (required),300,AUTOMATED_MANUAL,rear wheel drive,Compact,Convertible,3916,56950,6264500,1.6
+BMW,Z4,2015,premium unleaded (required),335,AUTOMATED_MANUAL,rear wheel drive,Compact,Convertible,3916,65800,7238000,1.6
+BMW,Z4,2016,premium unleaded (required),300,AUTOMATED_MANUAL,rear wheel drive,Compact,Convertible,3916,57500,6325000,1.6
+BMW,Z4,2016,premium unleaded (required),240,MANUAL,rear wheel drive,Compact,Convertible,3916,49700,5467000,1.6
+BMW,Z4,2016,premium unleaded (required),335,AUTOMATED_MANUAL,rear wheel drive,Compact,Convertible,3916,66350,7298500,1.6
+BMW,Z8,2001,premium unleaded (required),394,MANUAL,rear wheel drive,Compact,Convertible,3916,128000,14080000,1.6
+BMW,Z8,2002,premium unleaded (required),394,MANUAL,rear wheel drive,Compact,Convertible,3916,130000,14300000,1.6
+BMW,Z8,2003,premium unleaded (required),394,MANUAL,rear wheel drive,Compact,Convertible,3916,131500,14465000,2
+Buick,Lucerne,2009,premium unleaded (recommended),292,AUTOMATIC,front wheel drive,Large,Sedan,155,40205,4422550,2
+Buick,Lucerne,2009,flex-fuel (unleaded/E85),227,AUTOMATIC,front wheel drive,Large,Sedan,155,32520,3577200,2
+Buick,Lucerne,2010,flex-fuel (unleaded/E85),227,AUTOMATIC,front wheel drive,Large,Sedan,155,35730,3930300,2
+Buick,Lucerne,2010,premium unleaded (recommended),292,AUTOMATIC,front wheel drive,Large,Sedan,155,42515,4676650,2
+Buick,Lucerne,2011,flex-fuel (unleaded/E85),227,AUTOMATIC,front wheel drive,Large,Sedan,155,29730,3270300,2
+Buick,Lucerne,2011,premium unleaded (recommended),292,AUTOMATIC,front wheel drive,Large,Sedan,155,44460,4890600,2
+Chevrolet,Astro Cargo,2003,regular unleaded,190,AUTOMATIC,rear wheel drive,Large,Cargo Minivan,1385,22050,2425500,2
+Chevrolet,Astro Cargo,2004,regular unleaded,190,AUTOMATIC,all wheel drive,Large,Cargo Minivan,1385,25195,2771450,2
+Chevrolet,Astro Cargo,2005,regular unleaded,190,AUTOMATIC,rear wheel drive,Large,Cargo Minivan,1385,22930,2522300,2
+Chevrolet,Astro,2003,regular unleaded,190,AUTOMATIC,all wheel drive,Large,Passenger Minivan,1385,25690,2825900,2
+Chevrolet,Astro,2004,regular unleaded,190,AUTOMATIC,all wheel drive,Large,Passenger Minivan,1385,26195,2881450,2
+Chevrolet,Astro,2005,regular unleaded,190,AUTOMATIC,rear wheel drive,Large,Passenger Minivan,1385,24430,2687300,2
+Chevrolet,Avalanche,2010,flex-fuel (unleaded/E85),320,AUTOMATIC,rear wheel drive,Large,Crew Cab Pickup,1385,45815,5039650,5
+Chevrolet,Avalanche,2011,flex-fuel (unleaded/E85),320,AUTOMATIC,rear wheel drive,Large,Crew Cab Pickup,1385,39405,4334550,5
+Chevrolet,Avalanche,2012,flex-fuel (unleaded/E85),320,AUTOMATIC,rear wheel drive,Large,Crew Cab Pickup,1385,40195,4421450,5
+Chevrolet,Aveo,2009,regular unleaded,107,MANUAL,front wheel drive,Compact,4dr Hatchback,1385,11965,1316150,2.9
+Chevrolet,Aveo,2010,regular unleaded,108,MANUAL,front wheel drive,Compact,4dr Hatchback,1385,15365,1690150,2.9
+Chevrolet,Aveo,2011,regular unleaded,108,MANUAL,front wheel drive,Compact,4dr Hatchback,1385,15365,1690150,2.9
+Chevrolet,Beretta,1994,regular unleaded,170,MANUAL,front wheel drive,Compact,Coupe,1385,2000,220000,2.9
+Chevrolet,Beretta,1994,regular unleaded,120,MANUAL,front wheel drive,Compact,Coupe,1385,2000,220000,2.9
+Chevrolet,Beretta,1995,regular unleaded,120,MANUAL,front wheel drive,Midsize,Coupe,1385,2000,220000,2.9
+Chevrolet,Beretta,1995,regular unleaded,160,AUTOMATIC,front wheel drive,Midsize,Coupe,1385,2000,220000,2.9
+Chevrolet,Beretta,1996,regular unleaded,120,MANUAL,front wheel drive,Midsize,Coupe,1385,2000,220000,2.9
+Chevrolet,Beretta,1996,regular unleaded,155,AUTOMATIC,front wheel drive,Midsize,Coupe,1385,2000,220000,2.9
+Chevrolet,Black Diamond Avalanche,2013,flex-fuel (unleaded/E85),320,AUTOMATIC,four wheel drive,Large,Crew Cab Pickup,1385,39030,4293300,2.9
+Chevrolet,Blazer,2003,regular unleaded,190,MANUAL,rear wheel drive,Compact,2dr SUV,1385,20745,2281950,2.9
+Chevrolet,Blazer,2004,regular unleaded,190,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,1385,25230,2775300,2.9
+Chevrolet,Blazer,2005,regular unleaded,190,MANUAL,four wheel drive,Compact,2dr SUV,1385,24305,2673550,1.5
+Chevrolet,Bolt EV,2017,electric,200,DIRECT_DRIVE,front wheel drive,Compact,4dr Hatchback,1385,40905,4499550,1.5
+Chevrolet,Camaro,2015,regular unleaded,323,MANUAL,rear wheel drive,Midsize,Coupe,1385,29205,3212550,1.5
+Chevrolet,Camaro,2015,premium unleaded (required),580,MANUAL,rear wheel drive,Midsize,Coupe,1385,55505,6105550,1.5
+Chevrolet,Camaro,2015,premium unleaded (recommended),426,MANUAL,rear wheel drive,Midsize,Convertible,1385,42405,4664550,1.5
+Chevrolet,Camaro,2015,premium unleaded (required),505,MANUAL,rear wheel drive,Midsize,Coupe,1385,72305,7953550,1.5
+Chevrolet,Camaro,2016,premium unleaded (recommended),455,MANUAL,rear wheel drive,Midsize,Convertible,1385,48300,5313000,1.9
+Chevrolet,Camaro,2016,premium unleaded (recommended),275,MANUAL,rear wheel drive,Midsize,Convertible,1385,36800,4048000,1.9
+Chevrolet,Camaro,2017,premium unleaded (recommended),455,MANUAL,rear wheel drive,Midsize,Convertible,1385,42905,4719550,1.9
+Chevrolet,Camaro,2017,premium unleaded (recommended),275,MANUAL,rear wheel drive,Midsize,Convertible,1385,35605,3916550,2
+Chevrolet,Camaro,2017,premium unleaded (required),650,MANUAL,rear wheel drive,Midsize,Coupe,1385,61140,6725400,2
+Chevrolet,Caprice,1994,regular unleaded,260,AUTOMATIC,rear wheel drive,Large,Wagon,1385,2000,220000,2
+Chevrolet,Caprice,1994,regular unleaded,200,AUTOMATIC,rear wheel drive,Large,Sedan,1385,2000,220000,2
+Chevrolet,Caprice,1995,regular unleaded,200,AUTOMATIC,rear wheel drive,Large,Sedan,1385,2000,220000,2.2
+Chevrolet,Caprice,1995,regular unleaded,260,AUTOMATIC,rear wheel drive,Large,Wagon,1385,2000,220000,2.2
+Chevrolet,Caprice,1996,regular unleaded,260,AUTOMATIC,rear wheel drive,Large,Wagon,1385,2000,220000,2.2
+Chevrolet,Caprice,1996,regular unleaded,200,AUTOMATIC,rear wheel drive,Large,Sedan,1385,2000,220000,2.2
+Chevrolet,Captiva Sport,2013,flex-fuel (unleaded/E85),180,AUTOMATIC,front wheel drive,Midsize,4dr SUV,1385,24155,2657050,2.2
+Chevrolet,Captiva Sport,2014,flex-fuel (unleaded/E85),180,AUTOMATIC,front wheel drive,Midsize,4dr SUV,1385,25145,2765950,2.2
+Chevrolet,Captiva Sport,2015,flex-fuel (unleaded/E85),180,AUTOMATIC,front wheel drive,Midsize,4dr SUV,1385,25985,2858350,2.2
+Chevrolet,Cavalier,2003,regular unleaded,140,MANUAL,front wheel drive,Compact,Sedan,1385,14230,1565300,1.2
+Chevrolet,Cavalier,2004,regular unleaded,140,MANUAL,front wheel drive,Compact,Coupe,1385,17410,1915100,1.2
+Chevrolet,Cavalier,2005,regular unleaded,140,MANUAL,front wheel drive,Compact,Sedan,1385,16290,1791900,1.2
+Chevrolet,Celebrity,1990,regular unleaded,135,AUTOMATIC,front wheel drive,Midsize,Wagon,1385,2000,220000,2.4
+Chevrolet,Celebrity,1990,regular unleaded,110,AUTOMATIC,front wheel drive,Midsize,Wagon,1385,2000,220000,2.4
+Chevrolet,Chevy Van,1996,regular unleaded,195,AUTOMATIC,rear wheel drive,Midsize,Cargo Van,1385,2000,220000,2.4
+Chevrolet,Chevy Van,1997,regular unleaded,200,AUTOMATIC,rear wheel drive,Large,Cargo Van,1385,2000,220000,2.4
+Chevrolet,Chevy Van,1998,regular unleaded,200,AUTOMATIC,rear wheel drive,Midsize,Cargo Van,1385,2050,225500,2.4
+Chevrolet,City Express,2015,regular unleaded,131,AUTOMATIC,front wheel drive,Compact,Cargo Minivan,1385,23515,2586650,2.4
+Chevrolet,City Express,2016,regular unleaded,131,AUTOMATIC,front wheel drive,Compact,Cargo Minivan,1385,23515,2586650,1.2
+Chevrolet,City Express,2017,regular unleaded,131,AUTOMATIC,front wheel drive,Compact,Cargo Minivan,1385,22405,2464550,1.2
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,MANUAL,four wheel drive,Large,Regular Cab Pickup,1385,2949,324390,1.2
+Chevrolet,C/K 1500 Series,1997,regular unleaded,230,MANUAL,rear wheel drive,Large,Extended Cab Pickup,1385,2668,293480,1.2
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,MANUAL,,Large,Extended Cab Pickup,1385,3265,359150,1.2
+Chevrolet,C/K 1500 Series,1998,regular unleaded,230,MANUAL,four wheel drive,Large,Extended Cab Pickup,1385,3676,404360,1.2
+Chevrolet,C/K 1500 Series,1999,regular unleaded,230,AUTOMATIC,rear wheel drive,Large,Extended Cab Pickup,1385,3696,406560,1.2
+Chevrolet,C/K 2500 Series,1998,regular unleaded,230,MANUAL,rear wheel drive,Large,Regular Cab Pickup,1385,2949,324390,1.2
+Chevrolet,C/K 2500 Series,1998,regular unleaded,255,MANUAL,rear wheel drive,Large,Extended Cab Pickup,1385,3360,369600,1.2
+Chevrolet,Classic,2004,regular unleaded,140,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,19505,2145550,1.2
+Chevrolet,Classic,2005,regular unleaded,140,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,19690,2165900,2
+Chevrolet,Cobalt,2008,regular unleaded,148,MANUAL,front wheel drive,Compact,Coupe,1385,14410,1585100,2
+Chevrolet,Cobalt,2008,premium unleaded (recommended),260,MANUAL,front wheel drive,Compact,Coupe,1385,22335,2456850,2
+Chevrolet,Cobalt,2008,regular unleaded,173,MANUAL,front wheel drive,Compact,Sedan,1385,19695,2166450,3
+Chevrolet,Cobalt,2009,regular unleaded,155,MANUAL,front wheel drive,Compact,Coupe,1385,16460,1810600,3
+Chevrolet,Cobalt,2009,premium unleaded (recommended),260,MANUAL,front wheel drive,Compact,Coupe,1385,23425,2576750,3
+Chevrolet,Cobalt,2010,regular unleaded,155,MANUAL,front wheel drive,Compact,Sedan,1385,15670,1723700,3
+Chevrolet,Cobalt,2010,premium unleaded (recommended),260,MANUAL,front wheel drive,Compact,Coupe,1385,24535,2698850,3
+Chevrolet,Colorado,2012,regular unleaded,300,AUTOMATIC,rear wheel drive,Compact,Crew Cab Pickup,1385,28340,3117400,3
+Chevrolet,Colorado,2012,regular unleaded,242,AUTOMATIC,four wheel drive,Compact,Extended Cab Pickup,1385,29480,3242800,3
+Chevrolet,Colorado,2012,regular unleaded,185,MANUAL,four wheel drive,Compact,Extended Cab Pickup,1385,23030,2533300,3
+Chevrolet,Colorado,2015,regular unleaded,200,AUTOMATIC,four wheel drive,Compact,Extended Cab Pickup,1385,29220,3214200,3
+Chevrolet,Colorado,2015,regular unleaded,305,AUTOMATIC,rear wheel drive,Compact,Crew Cab Pickup,1385,25850,2843500,3
+Chevrolet,Colorado,2016,regular unleaded,305,AUTOMATIC,four wheel drive,Compact,Crew Cab Pickup,1385,30665,3373150,3
+Chevrolet,Colorado,2016,regular unleaded,200,AUTOMATIC,rear wheel drive,Compact,Extended Cab Pickup,1385,28515,3136650,3
+Chevrolet,Corsica,1994,regular unleaded,120,AUTOMATIC,front wheel drive,Compact,Sedan,1385,2000,220000,3
+Chevrolet,Corsica,1996,regular unleaded,120,AUTOMATIC,front wheel drive,Compact,Sedan,1385,2000,220000,3
+Chevrolet,Corvette Stingray,2014,premium unleaded (recommended),455,MANUAL,rear wheel drive,Compact,Coupe,1385,53000,5830000,3
+Chevrolet,Corvette,2015,premium unleaded (recommended),460,MANUAL,rear wheel drive,Compact,Convertible,1385,68160,7497600,3
+Chevrolet,Corvette,2015,premium unleaded (required),650,MANUAL,rear wheel drive,Compact,Convertible,1385,83000,9130000,3
+Chevrolet,Corvette,2015,premium unleaded (recommended),455,MANUAL,rear wheel drive,Compact,Convertible,1385,63160,6947600,2.9
+Chevrolet,Corvette,2016,premium unleaded (required),650,MANUAL,rear wheel drive,Compact,Coupe,1385,88345,9717950,2.9
+Chevrolet,Corvette,2016,premium unleaded (recommended),460,MANUAL,rear wheel drive,Compact,Coupe,1385,70145,7715950,2.9
+Chevrolet,Corvette,2016,premium unleaded (recommended),455,MANUAL,rear wheel drive,Compact,Coupe,1385,65145,7165950,2.9
+Chevrolet,Corvette,2017,premium unleaded (required),650,MANUAL,rear wheel drive,Compact,Convertible,1385,87015,9571650,2.9
+Chevrolet,Corvette,2017,premium unleaded (recommended),455,MANUAL,rear wheel drive,Compact,Coupe,1385,59905,6589550,2.9
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,MANUAL,rear wheel drive,Compact,Convertible,1385,74195,8161450,2.9
+Chevrolet,Cruze Limited,2016,regular unleaded,138,MANUAL,front wheel drive,Midsize,Sedan,1385,20195,2221450,2
+Chevrolet,Cruze,2015,regular unleaded,138,MANUAL,front wheel drive,Midsize,Sedan,1385,16170,1778700,2
+Chevrolet,Cruze,2015,diesel,148,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,25660,2822600,2
+Chevrolet,Cruze,2016,regular unleaded,153,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,19120,2103200,2
+Chevrolet,Cruze,2017,regular unleaded,153,AUTOMATIC,front wheel drive,Compact,4dr Hatchback,1385,21920,2411200,2.5
+Chevrolet,Equinox,2015,regular unleaded,182,AUTOMATIC,all wheel drive,Compact,4dr SUV,1385,26270,2889700,2.5
+Chevrolet,Equinox,2016,regular unleaded,182,AUTOMATIC,front wheel drive,Compact,4dr SUV,1385,22600,2486000,2.5
+Chevrolet,Equinox,2017,regular unleaded,182,AUTOMATIC,front wheel drive,Compact,4dr SUV,1385,25510,2806100,2.5
+Chevrolet,Express Cargo,2014,flex-fuel (unleaded/E85),310,AUTOMATIC,all wheel drive,Midsize,Cargo Van,1385,32760,3603600,2.5
+Chevrolet,Express Cargo,2014,regular unleaded,195,AUTOMATIC,rear wheel drive,Midsize,Cargo Van,1385,27710,3048100,2.5
+Chevrolet,Express,2014,flex-fuel (unleaded/E85),310,AUTOMATIC,all wheel drive,Midsize,Passenger Van,1385,34525,3797750,2
+Chevrolet,Express,2014,flex-fuel (unleaded/E85),285,AUTOMATIC,rear wheel drive,Midsize,Passenger Van,1385,34160,3757600,2
+Chevrolet,Express,2015,flex-fuel (unleaded/E85),285,AUTOMATIC,rear wheel drive,Midsize,Passenger Van,1385,32190,3540900,2
+Chevrolet,Express,2016,flex-fuel (unleaded/E85),285,AUTOMATIC,rear wheel drive,Large,Passenger Van,1385,37500,4125000,1.9
+Chevrolet,HHR,2009,flex-fuel (unleaded/E85),155,AUTOMATIC,front wheel drive,Compact,Wagon,1385,20720,2279200,1.9
+Chevrolet,HHR,2009,premium unleaded (recommended),260,MANUAL,front wheel drive,Compact,Wagon,1385,25135,2764850,1.9
+Chevrolet,HHR,2010,flex-fuel (unleaded/E85),155,MANUAL,front wheel drive,Compact,Wagon,1385,20030,2203300,1.9
+Chevrolet,HHR,2010,premium unleaded (recommended),260,MANUAL,front wheel drive,Compact,Wagon,1385,26255,2888050,1.9
+Chevrolet,HHR,2011,flex-fuel (unleaded/E85),155,MANUAL,front wheel drive,Compact,Wagon,1385,18720,2059200,1.9
+Chevrolet,Impala Limited,2014,flex-fuel (unleaded/E85),300,AUTOMATIC,front wheel drive,Large,Sedan,1385,26840,2952400,2
+Chevrolet,Impala Limited,2015,flex-fuel (unleaded/E85),300,AUTOMATIC,front wheel drive,Large,Sedan,1385,26840,2952400,2
+Chevrolet,Impala Limited,2016,flex-fuel (unleaded/E85),300,AUTOMATIC,front wheel drive,Large,Sedan,1385,26840,2952400,2
+Chevrolet,Impala,2015,regular unleaded,195,AUTOMATIC,front wheel drive,Large,Sedan,1385,34465,3791150,2
+Chevrolet,Impala,2015,flex-fuel (unleaded/natural gas),,AUTOMATIC,front wheel drive,Large,Sedan,1385,40660,4472600,2
+Chevrolet,Impala,2015,flex-fuel (unleaded/E85),305,AUTOMATIC,front wheel drive,Large,Sedan,1385,35440,3898400,2
+Chevrolet,Impala,2016,flex-fuel (unleaded/natural gas),,AUTOMATIC,front wheel drive,Large,Sedan,1385,40810,4489100,2
+Chevrolet,Impala,2016,flex-fuel (unleaded/E85),305,AUTOMATIC,front wheel drive,Large,Sedan,1385,35540,3909400,2
+Chevrolet,Impala,2016,regular unleaded,195,AUTOMATIC,front wheel drive,Large,Sedan,1385,27095,2980450,3.2
+Chevrolet,Impala,2017,flex-fuel (unleaded/E85),305,AUTOMATIC,front wheel drive,Large,Sedan,1385,35645,3920950,3.2
+Chevrolet,Impala,2017,flex-fuel (unleaded/natural gas),,AUTOMATIC,front wheel drive,Large,Sedan,1385,37675,4144250,3.2
+Chevrolet,Lumina Minivan,1994,regular unleaded,120,AUTOMATIC,front wheel drive,Compact,Passenger Minivan,1385,2000,220000,1.3
+Chevrolet,Lumina Minivan,1995,regular unleaded,120,AUTOMATIC,front wheel drive,Compact,Passenger Minivan,1385,2000,220000,1.3
+Chevrolet,Lumina Minivan,1996,regular unleaded,180,AUTOMATIC,front wheel drive,Compact,Passenger Minivan,1385,2000,220000,1.3
+Chevrolet,Lumina,1999,regular unleaded,160,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,2000,220000,2
+Chevrolet,Lumina,1999,regular unleaded,200,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,2044,224840,2
+Chevrolet,Lumina,2000,regular unleaded,175,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,2100,231000,2
+Chevrolet,Lumina,2001,regular unleaded,175,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,18890,2077900,2
+Chevrolet,Malibu Classic,2008,regular unleaded,219,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,20320,2235200,2
+Chevrolet,Malibu Classic,2008,regular unleaded,145,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,17935,1972850,2
+Chevrolet,Malibu Hybrid,2008,regular unleaded,164,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,23640,2600400,5.1
+Chevrolet,Malibu Hybrid,2009,regular unleaded,164,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,25555,2811050,5.1
+Chevrolet,Malibu Hybrid,2010,regular unleaded,164,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,25925,2851750,5.1
+Chevrolet,Malibu Limited,2016,regular unleaded,197,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,23835,2621850,1.6
+Chevrolet,Malibu Maxx,2005,regular unleaded,200,AUTOMATIC,front wheel drive,Midsize,4dr Hatchback,1385,24610,2707100,1.6
+Chevrolet,Malibu Maxx,2006,regular unleaded,201,AUTOMATIC,front wheel drive,Midsize,4dr Hatchback,1385,23465,2581150,1.6
+Chevrolet,Malibu Maxx,2006,regular unleaded,240,AUTOMATIC,front wheel drive,Midsize,4dr Hatchback,1385,23265,2559150,4
+Chevrolet,Malibu Maxx,2007,regular unleaded,217,AUTOMATIC,front wheel drive,Midsize,4dr Hatchback,1385,20575,2263250,4
+Chevrolet,Malibu Maxx,2007,regular unleaded,240,AUTOMATIC,front wheel drive,Midsize,4dr Hatchback,1385,23710,2608100,4
+Chevrolet,Malibu,2015,regular unleaded,196,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,28195,3101450,3.5
+Chevrolet,Malibu,2015,premium unleaded (recommended),259,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,30355,3339050,3.5
+Chevrolet,Malibu,2016,regular unleaded,160,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,21625,2378750,3.5
+Chevrolet,Malibu,2016,premium unleaded (recommended),250,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,28620,3148200,2.6
+Chevrolet,Malibu,2016,regular unleaded,182,DIRECT_DRIVE,front wheel drive,Midsize,Sedan,1385,27770,3054700,2.6
+Chevrolet,Malibu,2017,regular unleaded,160,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,25125,2763750,2.6
+Chevrolet,Malibu,2017,regular unleaded,182,DIRECT_DRIVE,front wheel drive,Midsize,Sedan,1385,27875,3066250,2.6
+Chevrolet,Malibu,2017,premium unleaded (recommended),250,AUTOMATIC,front wheel drive,Midsize,Sedan,1385,30975,3407250,2.6
+Chevrolet,Metro,1999,regular unleaded,55,MANUAL,front wheel drive,Compact,2dr Hatchback,1385,2000,220000,2.6
+Chevrolet,Metro,1999,regular unleaded,79,MANUAL,front wheel drive,Compact,Sedan,1385,2000,220000,2
+Chevrolet,Metro,2000,regular unleaded,79,MANUAL,front wheel drive,Compact,Sedan,1385,2000,220000,2
+Chevrolet,Metro,2000,regular unleaded,55,MANUAL,front wheel drive,Compact,2dr Hatchback,1385,2000,220000,2
+Chevrolet,Metro,2001,regular unleaded,79,AUTOMATIC,front wheel drive,Compact,Sedan,1385,12515,1376650,2
+Chevrolet,Prizm,2000,regular unleaded,125,MANUAL,front wheel drive,Compact,Sedan,1385,2130,234300,2
+Chevrolet,Prizm,2001,regular unleaded,125,MANUAL,front wheel drive,Compact,Sedan,1385,14155,1557050,2
+Chevrolet,Prizm,2002,regular unleaded,125,MANUAL,front wheel drive,Compact,Sedan,1385,14330,1576300,2
+Chevrolet,S-10 Blazer,1992,regular unleaded,160,MANUAL,four wheel drive,Compact,2dr SUV,1385,2000,220000,2
+Chevrolet,S-10 Blazer,1993,regular unleaded,165,MANUAL,rear wheel drive,Midsize,4dr SUV,1385,2000,220000,2
+Chevrolet,S-10 Blazer,1994,regular unleaded,165,MANUAL,rear wheel drive,Compact,2dr SUV,1385,2000,220000,3.5
+Chevrolet,S-10,2002,regular unleaded,190,AUTOMATIC,rear wheel drive,Compact,Extended Cab Pickup,1385,20984,2308240,3.5
+Chevrolet,S-10,2002,flex-fuel (unleaded/E85),120,AUTOMATIC,rear wheel drive,Compact,Regular Cab Pickup,1385,15406,1694660,3.5
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,MANUAL,rear wheel drive,Compact,Extended Cab Pickup,1385,20780,2285800,3.5
+Chevrolet,S-10,2003,regular unleaded,190,MANUAL,four wheel drive,Compact,Extended Cab Pickup,1385,20270,2229700,5.7
+Chevrolet,S-10,2004,regular unleaded,190,AUTOMATIC,four wheel drive,Compact,Crew Cab Pickup,1385,24660,2712600,5.7
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,AUTOMATIC,four wheel drive,Large,Regular Cab Pickup,1385,26685,2935350,5.7
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,295,AUTOMATIC,rear wheel drive,Large,Extended Cab Pickup,1385,26930,2962300,1
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,MANUAL,four wheel drive,Large,Regular Cab Pickup,1385,24020,2642200,1
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,310,AUTOMATIC,four wheel drive,Large,Extended Cab Pickup,1385,33425,3676750,1
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,345,AUTOMATIC,rear wheel drive,Large,Extended Cab Pickup,1385,33280,3660800,1.9
+Chevrolet,Silverado 1500 Hybrid,2011,regular unleaded,332,AUTOMATIC,four wheel drive,Large,Crew Cab Pickup,1385,48205,5302550,1.9
+Chevrolet,Silverado 1500 Hybrid,2012,regular unleaded,332,AUTOMATIC,four wheel drive,Large,Crew Cab Pickup,1385,42840,4712400,1.9
+Chevrolet,Silverado 1500 Hybrid,2013,regular unleaded,332,AUTOMATIC,four wheel drive,Large,Crew Cab Pickup,1385,51490,5663900,1.8
+Chevrolet,Silverado 1500,2015,regular unleaded,355,AUTOMATIC,four wheel drive,Large,Crew Cab Pickup,1385,46110,5072100,1.8
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,AUTOMATIC,four wheel drive,Large,Extended Cab Pickup,1385,35920,3951200,1.8
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,AUTOMATIC,rear wheel drive,Large,Extended Cab Pickup,1385,35825,3940750,2.5
+Chevrolet,Silverado 1500,2016,regular unleaded,355,AUTOMATIC,rear wheel drive,Large,Crew Cab Pickup,1385,39685,4365350,2.5
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,AUTOMATIC,rear wheel drive,Large,Crew Cab Pickup,1385,36035,3963850,2.5
+Chevrolet,Silverado 1500,2017,regular unleaded,355,AUTOMATIC,rear wheel drive,Large,Crew Cab Pickup,1385,39230,4315300,5.7
+Chevrolet,Sonic,2015,regular unleaded,138,AUTOMATIC,front wheel drive,Compact,Sedan,1385,15495,1704450,5.7
+Chevrolet,Sonic,2016,regular unleaded,138,MANUAL,front wheel drive,Compact,Sedan,1385,16155,1777050,5.7
+Chevrolet,Sonic,2017,regular unleaded,138,AUTOMATIC,front wheel drive,Compact,Sedan,1385,18170,1998700,2.7
+Chevrolet,Spark EV,2014,electric,140,DIRECT_DRIVE,front wheel drive,Compact,4dr Hatchback,1385,26685,2935350,2.7
+Chevrolet,Spark EV,2015,electric,140,DIRECT_DRIVE,front wheel drive,Compact,4dr Hatchback,1385,25170,2768700,2.7
+Chevrolet,Spark EV,2016,electric,140,DIRECT_DRIVE,front wheel drive,Compact,4dr Hatchback,1385,25510,2806100,2.7
+Chevrolet,Spark,2015,regular unleaded,84,MANUAL,front wheel drive,Compact,4dr Hatchback,1385,14040,1544400,2.7
+Chevrolet,Spark,2016,regular unleaded,98,MANUAL,front wheel drive,Compact,4dr Hatchback,1385,14685,1615350,2.7
+Chevrolet,Spark,2017,regular unleaded,98,MANUAL,front wheel drive,Compact,4dr Hatchback,1385,16325,1795750,4.6
+Chevrolet,Sportvan,1994,regular unleaded,200,AUTOMATIC,rear wheel drive,Midsize,Passenger Van,1385,2000,220000,4.6
+Chevrolet,Sportvan,1994,regular unleaded,155,AUTOMATIC,rear wheel drive,Midsize,Passenger Van,1385,2000,220000,4.6
+Chevrolet,Sportvan,1995,regular unleaded,163,AUTOMATIC,rear wheel drive,Midsize,Passenger Van,1385,2000,220000,4.6
+Chevrolet,Suburban,2015,flex-fuel (unleaded/E85),355,AUTOMATIC,rear wheel drive,Large,4dr SUV,1385,54205,5962550,4.6
+Chevrolet,Suburban,2016,flex-fuel (unleaded/E85),355,AUTOMATIC,rear wheel drive,Large,4dr SUV,1385,54730,6020300,4.6
+Chevrolet,Suburban,2017,flex-fuel (unleaded/E85),355,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,58045,6384950,2.4
+Chevrolet,Tahoe Hybrid,2011,regular unleaded,332,AUTOMATIC,rear wheel drive,Large,4dr SUV,1385,51145,5625950,2.4
+Chevrolet,Tahoe Hybrid,2012,regular unleaded,332,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,54775,6025250,2.4
+Chevrolet,Tahoe Hybrid,2013,regular unleaded,332,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,56425,6206750,2.4
+Chevrolet,Tahoe Limited/Z71,2000,regular unleaded,255,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,3465,381150,2.4
+Chevrolet,Tahoe,2015,flex-fuel (unleaded/E85),355,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,54505,5995550,2.4
+Chevrolet,Tahoe,2016,flex-fuel (unleaded/E85),355,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,64740,7121400,2
+Chevrolet,Tahoe,2017,flex-fuel (unleaded/E85),355,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,50215,5523650,2
+Chevrolet,Tracker,2002,regular unleaded,127,MANUAL,four wheel drive,Compact,Convertible SUV,1385,19060,2096600,2
+Chevrolet,Tracker,2002,regular unleaded,155,AUTOMATIC,four wheel drive,Compact,4dr SUV,1385,21510,2366100,2
+Chevrolet,Tracker,2003,regular unleaded,165,AUTOMATIC,four wheel drive,Compact,4dr SUV,1385,22530,2478300,1.5
+Chevrolet,Tracker,2003,regular unleaded,127,MANUAL,four wheel drive,Compact,Convertible SUV,1385,17730,1950300,1.5
+Chevrolet,Tracker,2004,regular unleaded,165,AUTOMATIC,four wheel drive,Compact,4dr SUV,1385,22315,2454650,1.5
+Chevrolet,TrailBlazer EXT,2004,regular unleaded,275,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,32320,3555200,1.5
+Chevrolet,TrailBlazer EXT,2005,regular unleaded,275,AUTOMATIC,four wheel drive,Large,4dr SUV,1385,32515,3576650,1.5
+Chevrolet,TrailBlazer EXT,2006,regular unleaded,291,AUTOMATIC,rear wheel drive,Large,4dr SUV,1385,27980,3077800,1.5
+Chevrolet,TrailBlazer,2007,regular unleaded,291,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,1385,25045,2754950,1.5
+Chevrolet,TrailBlazer,2007,premium unleaded (required),395,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,1385,34885,3837350,1.5
+Chevrolet,TrailBlazer,2008,regular unleaded,285,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,1385,26390,2902900,1.5
+Chevrolet,TrailBlazer,2008,premium unleaded (required),390,AUTOMATIC,rear wheel drive,Midsize,4dr SUV,1385,32155,3537050,1.5
+Chevrolet,TrailBlazer,2009,regular unleaded,285,AUTOMATIC,four wheel drive,Midsize,4dr SUV,1385,35770,3934700,2
+Chevrolet,TrailBlazer,2009,premium unleaded (recommended),390,AUTOMATIC,all wheel drive,Midsize,4dr SUV,1385,39330,4326300,2
+Chevrolet,Traverse,2015,regular unleaded,288,AUTOMATIC,all wheel drive,Midsize,4dr SUV,1385,43935,4832850,2
+Chevrolet,Traverse,2015,regular unleaded,281,AUTOMATIC,front wheel drive,Midsize,4dr SUV,1385,30995,3409450,2
+Chevrolet,Traverse,2016,regular unleaded,288,AUTOMATIC,all wheel drive,Midsize,4dr SUV,1385,44145,4855950,2
+Chevrolet,Traverse,2016,regular unleaded,281,AUTOMATIC,front wheel drive,Midsize,4dr SUV,1385,34005,3740550,2
+Chevrolet,Traverse,2017,regular unleaded,281,AUTOMATIC,all wheel drive,Midsize,4dr SUV,1385,38650,4251500,2
+Chevrolet,Traverse,2017,regular unleaded,288,AUTOMATIC,all wheel drive,Midsize,4dr SUV,1385,44045,4844950,3.6
+Chevrolet,Trax,2015,regular unleaded,138,AUTOMATIC,front wheel drive,Compact,4dr SUV,1385,25030,2753300,3.6
+Chevrolet,Trax,2016,regular unleaded,138,AUTOMATIC,all wheel drive,Compact,4dr SUV,1385,24145,2655950,3.6
+Chevrolet,Trax,2017,regular unleaded,138,AUTOMATIC,all wheel drive,Compact,4dr SUV,1385,24400,2684000,3.6
+Chevrolet,Uplander,2006,regular unleaded,201,AUTOMATIC,front wheel drive,Midsize,Passenger Minivan,1385,22750,2502500,3.6
+Chevrolet,Uplander,2006,regular unleaded,196,AUTOMATIC,all wheel drive,Midsize,Passenger Minivan,1385,33250,3657500,3.6
+Chevrolet,Uplander,2007,regular unleaded,240,AUTOMATIC,front wheel drive,Compact,Passenger Minivan,1385,20205,2222550,2
+Chevrolet,Uplander,2008,regular unleaded,240,AUTOMATIC,front wheel drive,Compact,Passenger Minivan,1385,21540,2369400,2
+Chevrolet,Venture,2003,regular unleaded,185,AUTOMATIC,all wheel drive,Midsize,Passenger Minivan,1385,31790,3496900,2
+Chevrolet,Venture,2004,regular unleaded,185,AUTOMATIC,front wheel drive,Midsize,Passenger Minivan,1385,30575,3363250,2
+Chevrolet,Venture,2005,regular unleaded,185,AUTOMATIC,front wheel drive,Midsize,Passenger Minivan,1385,30760,3383600,2
+Ferrari,360,2002,premium unleaded (required),400,MANUAL,rear wheel drive,Compact,Convertible,2774,160829,17691190,2
+Ferrari,360,2003,premium unleaded (required),400,MANUAL,rear wheel drive,Compact,Convertible,2774,165986,18258460,2
+Ferrari,360,2004,premium unleaded (required),400,AUTOMATED_MANUAL,rear wheel drive,Compact,Coupe,2774,157767,17354370,2
+Ferrari,360,2004,premium unleaded (required),425,AUTOMATED_MANUAL,rear wheel drive,Compact,Coupe,2774,187124,20583640,2
+Ferrari,456M,2001,premium unleaded (required),442,AUTOMATIC,rear wheel drive,Compact,Coupe,2774,223970,24636700,2
+Ferrari,456M,2002,premium unleaded (required),442,AUTOMATIC,rear wheel drive,Compact,Coupe,2774,228625,25148750,2
+Ferrari,456M,2003,premium unleaded (required),442,AUTOMATIC,rear wheel drive,Compact,Coupe,2774,228625,25148750,1.5
+Ferrari,550,2001,premium unleaded (required),485,MANUAL,rear wheel drive,Compact,Convertible,2774,248500,27335000,1.5
+Ferrari,575M,2002,premium unleaded (required),515,MANUAL,rear wheel drive,Compact,Coupe,2774,214670,23613700,1.5
+Ferrari,575M,2003,premium unleaded (required),515,MANUAL,rear wheel drive,Compact,Coupe,2774,217890,23967900,2
+Ferrari,575M,2004,premium unleaded (required),515,AUTOMATED_MANUAL,rear wheel drive,Compact,Coupe,2774,228339,25117290,2
+Ferrari,599,2009,premium unleaded (required),611,AUTOMATED_MANUAL,rear wheel drive,Midsize,Coupe,2774,320580,35263800,2
+Ferrari,599,2010,premium unleaded (required),611,MANUAL,rear wheel drive,Midsize,Coupe,2774,310543,34159730,2
+Ferrari,599,2011,premium unleaded (required),611,AUTOMATED_MANUAL,rear wheel drive,Midsize,Coupe,2774,320580,35263800,2
+Ferrari,599,2011,premium unleaded (required),661,AUTOMATED_MANUAL,rear wheel drive,Midsize,Coupe,2774,410000,45100000,2
+Ferrari,California,2012,premium unleaded (required),453,AUTOMATED_MANUAL,rear wheel drive,Compact,Convertible,2774,195840,21542400,2
+Ferrari,California,2013,premium unleaded (required),483,AUTOMATED_MANUAL,rear wheel drive,Compact,Convertible,2774,198190,21800900,2
+Ferrari,California,2014,premium unleaded (required),483,AUTOMATED_MANUAL,rear wheel drive,Compact,Convertible,2774,198190,21800900,2
+Ferrari,F12 Berlinetta,2013,premium unleaded (required),731,AUTOMATED_MANUAL,rear wheel drive,Midsize,Coupe,2774,315888,34747680,2
+Ferrari,F12 Berlinetta,2014,premium unleaded (required),731,AUTOMATED_MANUAL,rear wheel drive,Midsize,Coupe,2774,315888,34747680,2.3
+Ferrari,F12 Berlinetta,2015,premium unleaded (required),731,AUTOMATED_MANUAL,rear wheel drive,Midsize,Coupe,2774,319995,35199450,2.3
+Ferrari,F430,2007,premium unleaded (required),483,MANUAL,rear wheel drive,Compact,Coupe,2774,173079,19038690,2.3
+Ferrari,F430,2008,premium unleaded (required),483,AUTOMATED_MANUAL,rear wheel drive,Compact,Coupe,2774,199054,21895940,2.3
+Ferrari,F430,2009,premium unleaded (required),483,AUTOMATED_MANUAL,rear wheel drive,Compact,Coupe,2774,200054,22005940,2.3
+Ferrari,FF,2013,premium unleaded (required),651,AUTOMATED_MANUAL,all wheel drive,Large,Coupe,2774,295000,32450000,2.3
+Ferrari,FF,2014,premium unleaded (required),651,AUTOMATED_MANUAL,all wheel drive,Large,Coupe,2774,295000,32450000,2.3
+Ferrari,FF,2015,premium unleaded (required),651,AUTOMATED_MANUAL,all wheel drive,Large,Coupe,2774,295000,32450000,2.3
+Ford,Aerostar,1995,regular unleaded,135,AUTOMATIC,rear wheel drive,Midsize,Cargo Minivan,5657,2000,220000,2.3
+Ford,Aerostar,1995,regular unleaded,155,AUTOMATIC,all wheel drive,Large,Passenger Minivan,5657,2000,220000,2.3
+Ford,Aerostar,1996,regular unleaded,140,AUTOMATIC,rear wheel drive,Midsize,Passenger Minivan,5657,2000,220000,2.3
+Ford,Aerostar,1996,regular unleaded,155,AUTOMATIC,all wheel drive,Large,Passenger Minivan,5657,2000,220000,2.3
+Ford,Aerostar,1997,regular unleaded,140,AUTOMATIC,rear wheel drive,Midsize,Cargo Minivan,5657,2000,220000,2.5
+Ford,Aerostar,1997,regular unleaded,152,AUTOMATIC,all wheel drive,Large,Passenger Minivan,5657,2000,220000,2.5
+Ford,Aspire,1995,regular unleaded,63,MANUAL,front wheel drive,Compact,2dr Hatchback,5657,2000,220000,2.5
+Ford,Aspire,1996,regular unleaded,63,MANUAL,front wheel drive,Compact,4dr Hatchback,5657,2000,220000,2.5
+Ford,Aspire,1997,regular unleaded,63,MANUAL,front wheel drive,Compact,2dr Hatchback,5657,2000,220000,2.5
+Ford,Bronco II,1990,regular unleaded,140,MANUAL,rear wheel drive,Compact,2dr SUV,5657,2000,220000,2.5
+Ford,Bronco,1994,regular unleaded,185,MANUAL,four wheel drive,Midsize,2dr SUV,5657,2308,253880,2.3
+Ford,Bronco,1995,regular unleaded,205,MANUAL,four wheel drive,Midsize,2dr SUV,5657,2620,288200,2.3
+Ford,Bronco,1996,regular unleaded,199,MANUAL,four wheel drive,Midsize,2dr SUV,5657,2774,305140,2.3
+Ford,C-Max Hybrid,2015,regular unleaded,188,AUTOMATIC,front wheel drive,Compact,Wagon,5657,27170,2988700,2.3
+Ford,C-Max Hybrid,2016,regular unleaded,188,AUTOMATIC,front wheel drive,Compact,Wagon,5657,24170,2658700,2.3
+Ford,C-Max Hybrid,2017,regular unleaded,,,,,,,,,
+Ford,Contour SVT,1998,regular unleaded,,,,,,,,,
+Ford,Contour SVT,1999,regular unleaded,,,,,,,,,
+Ford,Contour SVT,2000,regular unleaded,,,,,,,,,
+Ford,Contour,1998,regular unleaded,,,,,,,,,
+Ford,Contour,1999,regular unleaded,,,,,,,,,
+Ford,Contour,2000,regular unleaded,,,,,,,,,
+Ford,Contour,2000,regular unleaded,,,,,,,,,
+Ford,Crown Victoria,2009,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Crown Victoria,2010,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Crown Victoria,2011,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-150,1996,regular unleaded,,,,,,,,,
+Ford,E-150,1996,regular unleaded,,,,,,,,,
+Ford,E-150,1997,regular unleaded,,,,,,,,,
+Ford,E-150,1998,regular unleaded,,,,,,,,,
+Ford,E-250,1996,regular unleaded,,,,,,,,,
+Ford,E-250,1996,regular unleaded,,,,,,,,,
+Ford,E-250,1997,regular unleaded,,,,,,,,,
+Ford,E-250,1998,regular unleaded,,,,,,,,,
+Ford,E-Series Van,2012,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Van,2012,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Van,2013,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Van,2013,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Van,2014,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Van,2014,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Wagon,2012,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Wagon,2012,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Wagon,2013,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Wagon,2013,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Wagon,2014,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,E-Series Wagon,2014,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Edge,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Edge,2015,regular unleaded,,,,,,,,,
+Ford,Edge,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Edge,2016,regular unleaded,,,,,,,,,
+Ford,Edge,2017,premium unleaded (recommended),,,,,,,,,
+Ford,Edge,2017,regular unleaded,,,,,,,,,
+Ford,Escape Hybrid,2009,regular unleaded,,,,,,,,,
+Ford,Escape Hybrid,2010,regular unleaded,,,,,,,,,
+Ford,Escape Hybrid,2011,regular unleaded,,,,,,,,,
+Ford,Escape,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Escape,2015,regular unleaded,,,,,,,,,
+Ford,Escape,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Escape,2016,regular unleaded,,,,,,,,,
+Ford,Escape,2017,regular unleaded,,,,,,,,,
+Ford,Escape,2017,regular unleaded,,,,,,,,,
+Ford,Escort,2001,regular unleaded,,,,,,,,,
+Ford,Escort,2002,regular unleaded,,,,,,,,,
+Ford,Escort,2002,regular unleaded,,,,,,,,,
+Ford,Escort,2003,regular unleaded,,,,,,,,,
+Ford,Expedition,2016,regular unleaded,,,,,,,,,
+Ford,Expedition,2017,regular unleaded,,,,,,,,,
+Ford,Explorer Sport Trac,2008,regular unleaded,,,,,,,,,
+Ford,Explorer Sport Trac,2008,regular unleaded,,,,,,,,,
+Ford,Explorer Sport Trac,2009,regular unleaded,,,,,,,,,
+Ford,Explorer Sport Trac,2009,regular unleaded,,,,,,,,,
+Ford,Explorer Sport Trac,2010,regular unleaded,,,,,,,,,
+Ford,Explorer Sport,2001,regular unleaded,,,,,,,,,
+Ford,Explorer Sport,2002,regular unleaded,,,,,,,,,
+Ford,Explorer Sport,2003,regular unleaded,,,,,,,,,
+Ford,Explorer,2015,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Explorer,2015,regular unleaded,,,,,,,,,
+Ford,Explorer,2016,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Explorer,2016,regular unleaded,,,,,,,,,
+Ford,Explorer,2017,regular unleaded,,,,,,,,,
+Ford,Explorer,2017,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Explorer,2017,regular unleaded,,,,,,,,,
+Ford,F-150 Heritage,2004,regular unleaded,,,,,,,,,
+Ford,F-150 Heritage,2004,regular unleaded,,,,,,,,,
+Ford,F-150 SVT Lightning,1995,regular unleaded,,,,,,,,,
+Ford,F-150 SVT Lightning,1999,regular unleaded,,,,,,,,,
+Ford,F-150 SVT Lightning,2000,regular unleaded,,,,,,,,,
+Ford,F-150,2015,regular unleaded,,,,,,,,,
+Ford,F-150,2015,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,F-150,2015,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,F-150,2016,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,F-150,2016,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,F-150,2016,regular unleaded,,,,,,,,,
+Ford,F-150,2016,regular unleaded,,,,,,,,,
+Ford,F-150,2017,regular unleaded,,,,,,,,,
+Ford,F-150,2017,regular unleaded,,,,,,,,,
+Ford,F-150,2017,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,F-150,2017,regular unleaded,,,,,,,,,
+Ford,F-150,2017,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,F-250,1997,regular unleaded,,,,,,,,,
+Ford,F-250,1998,regular unleaded,,,,,,,,,
+Ford,F-250,1999,regular unleaded,,,,,,,,,
+Ford,Festiva,1991,regular unleaded,,,,,,,,,
+Ford,Festiva,1992,regular unleaded,,,,,,,,,
+Ford,Festiva,1993,regular unleaded,,,,,,,,,
+Ford,Fiesta,2015,regular unleaded,,,,,,,,,
+Ford,Fiesta,2015,regular unleaded,,,,,,,,,
+Ford,Fiesta,2016,regular unleaded,,,,,,,,,
+Ford,Fiesta,2016,regular unleaded,,,,,,,,,
+Ford,Fiesta,2017,regular unleaded,,,,,,,,,
+Ford,Fiesta,2017,regular unleaded,,,,,,,,,
+Ford,Five Hundred,2005,regular unleaded,,,,,,,,,
+Ford,Five Hundred,2006,regular unleaded,,,,,,,,,
+Ford,Five Hundred,2007,regular unleaded,,,,,,,,,
+Ford,Flex,2015,regular unleaded,,,,,,,,,
+Ford,Flex,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Flex,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Flex,2016,regular unleaded,,,,,,,,,
+Ford,Flex,2017,premium unleaded (recommended),,,,,,,,,
+Ford,Flex,2017,regular unleaded,,,,,,,,,
+Ford,Focus RS,2017,premium unleaded (recommended),,,,,,,,,
+Ford,Focus ST,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Focus ST,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Focus ST,2017,premium unleaded (recommended),,,,,,,,,
+Ford,Focus,2015,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Focus,2015,electric,,,,,,,,,
+Ford,Focus,2016,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Focus,2016,electric,,,,,,,,,
+Ford,Focus,2017,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Focus,2017,regular unleaded,,,,,,,,,
+Ford,Focus,2017,electric,,,,,,,,,
+Ford,Freestar,2005,regular unleaded,,,,,,,,,
+Ford,Freestar,2006,regular unleaded,,,,,,,,,
+Ford,Freestar,2006,regular unleaded,,,,,,,,,
+Ford,Freestar,2007,regular unleaded,,,,,,,,,
+Ford,Freestyle,2005,regular unleaded,,,,,,,,,
+Ford,Freestyle,2006,regular unleaded,,,,,,,,,
+Ford,Freestyle,2007,regular unleaded,,,,,,,,,
+Ford,Fusion Hybrid,2015,regular unleaded,,,,,,,,,
+Ford,Fusion Hybrid,2016,regular unleaded,,,,,,,,,
+Ford,Fusion Hybrid,2017,regular unleaded,,,,,,,,,
+Ford,Fusion,2015,regular unleaded,,,,,,,,,
+Ford,Fusion,2015,regular unleaded,,,,,,,,,
+Ford,Fusion,2016,regular unleaded,,,,,,,,,
+Ford,Fusion,2016,regular unleaded,,,,,,,,,
+Ford,Fusion,2017,regular unleaded,,,,,,,,,
+Ford,Fusion,2017,regular unleaded,,,,,,,,,
+Ford,GT,2005,premium unleaded (required),,,,,,,,,
+Ford,GT,2006,premium unleaded (required),,,,,,,,,
+Ford,LTD Crown Victoria,1990,regular unleaded,,,,,,,,,
+Ford,LTD Crown Victoria,1991,regular unleaded,,,,,,,,,
+Ford,Mustang SVT Cobra,1997,regular unleaded,,,,,,,,,
+Ford,Mustang SVT Cobra,1998,regular unleaded,,,,,,,,,
+Ford,Mustang SVT Cobra,1999,regular unleaded,,,,,,,,,
+Ford,Mustang,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Mustang,2015,regular unleaded,,,,,,,,,
+Ford,Mustang,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Mustang,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Mustang,2016,regular unleaded,,,,,,,,,
+Ford,Mustang,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Mustang,2017,premium unleaded (recommended),,,,,,,,,
+Ford,Mustang,2017,regular unleaded,,,,,,,,,
+Ford,Mustang,2017,premium unleaded (recommended),,,,,,,,,
+Ford,Probe,1995,regular unleaded,,,,,,,,,
+Ford,Probe,1995,regular unleaded,,,,,,,,,
+Ford,Probe,1996,regular unleaded,,,,,,,,,
+Ford,Probe,1996,regular unleaded,,,,,,,,,
+Ford,Probe,1997,regular unleaded,,,,,,,,,
+Ford,Probe,1997,regular unleaded,,,,,,,,,
+Ford,Ranger,2009,regular unleaded,,,,,,,,,
+Ford,Ranger,2009,regular unleaded,,,,,,,,,
+Ford,Ranger,2010,regular unleaded,,,,,,,,,
+Ford,Ranger,2010,regular unleaded,,,,,,,,,
+Ford,Ranger,2011,regular unleaded,,,,,,,,,
+Ford,Ranger,2011,regular unleaded,,,,,,,,,
+Ford,Shelby GT350,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Shelby GT350,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Shelby GT350,2017,premium unleaded (recommended),,,,,,,,,
+Ford,Shelby GT500,2012,premium unleaded (required),,,,,,,,,
+Ford,Shelby GT500,2013,premium unleaded (required),,,,,,,,,
+Ford,Shelby GT500,2014,premium unleaded (required),,,,,,,,,
+Ford,Taurus X,2008,regular unleaded,,,,,,,,,
+Ford,Taurus X,2009,regular unleaded,,,,,,,,,
+Ford,Taurus,2015,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Taurus,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Taurus,2016,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Taurus,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Taurus,2017,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Taurus,2017,premium unleaded (recommended),,,,,,,,,
+Ford,Tempo,1992,regular unleaded,,,,,,,,,
+Ford,Tempo,1992,regular unleaded,,,,,,,,,
+Ford,Tempo,1993,regular unleaded,,,,,,,,,
+Ford,Tempo,1994,regular unleaded,,,,,,,,,
+Ford,Thunderbird,2003,premium unleaded (required),,,,,,,,,
+Ford,Thunderbird,2004,premium unleaded (required),,,,,,,,,
+Ford,Thunderbird,2005,premium unleaded (required),,,,,,,,,
+Ford,Transit Connect,2015,regular unleaded,,,,,,,,,
+Ford,Transit Connect,2016,regular unleaded,,,,,,,,,
+Ford,Transit Connect,2017,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Transit Wagon,2015,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Transit Wagon,2015,premium unleaded (recommended),,,,,,,,,
+Ford,Transit Wagon,2016,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Transit Wagon,2016,premium unleaded (recommended),,,,,,,,,
+Ford,Transit Wagon,2017,flex-fuel (unleaded/E85),,,,,,,,,
+Ford,Windstar Cargo,2001,regular unleaded,,,,,,,,,
+Ford,Windstar Cargo,2002,regular unleaded,,,,,,,,,
+Ford,Windstar Cargo,2003,regular unleaded,,,,,,,,,
+Ford,Windstar,2001,regular unleaded,,,,,,,,,
+Ford,Windstar,2002,regular unleaded,,,,,,,,,
+Ford,Windstar,2003,regular unleaded,,,,,,,,,
+Honda,Accord Crosstour,2010,regular unleaded,,,,,,,,,
+Honda,Accord Crosstour,2011,regular unleaded,,,,,,,,,
+Honda,Accord Hybrid,2014,regular unleaded,,,,,,,,,
+Honda,Accord Hybrid,2015,regular unleaded,,,,,,,,,
+Honda,Accord Hybrid,2017,regular unleaded,,,,,,,,,
+Honda,Accord Plug-In Hybrid,2014,regular unleaded,,,,,,,,,
+Honda,Accord,2015,regular unleaded,,,,,,,,,
+Honda,Accord,2015,regular unleaded,,,,,,,,,
+Honda,Accord,2015,regular unleaded,,,,,,,,,
+Honda,Accord,2016,regular unleaded,,,,,,,,,
+Honda,Accord,2016,regular unleaded,,,,,,,,,
+Honda,Accord,2016,regular unleaded,,,,,,,,,
+Honda,Accord,2017,regular unleaded,,,,,,,,,
+Honda,Accord,2017,regular unleaded,,,,,,,,,
+Honda,Accord,2017,regular unleaded,,,,,,,,,
+Honda,Civic CRX,1990,regular unleaded,,,,,,,,,
+Honda,Civic CRX,1990,regular unleaded,,,,,,,,,
+Honda,Civic CRX,1990,regular unleaded,,,,,,,,,
+Honda,Civic CRX,1991,regular unleaded,,,,,,,,,
+Honda,Civic CRX,1991,regular unleaded,,,,,,,,,
+Honda,Civic CRX,1991,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1995,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1995,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1995,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1996,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1996,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1996,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1997,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1997,regular unleaded,,,,,,,,,
+Honda,Civic del Sol,1997,regular unleaded,,,,,,,,,
+Honda,Civic,2015,regular unleaded,,,,,,,,,
+Honda,Civic,2015,premium unleaded (required),,,,,,,,,
+Honda,Civic,2015,regular unleaded,,,,,,,,,
+Honda,Civic,2016,regular unleaded,,,,,,,,,
+Honda,Civic,2016,regular unleaded,,,,,,,,,
+Honda,Civic,2017,regular unleaded,,,,,,,,,
+Honda,Civic,2017,premium unleaded (recommended),,,,,,,,,
+Honda,Civic,2017,regular unleaded,,,,,,,,,
+Honda,CR-V,2014,regular unleaded,,,,,,,,,
+Honda,CR-V,2015,regular unleaded,,,,,,,,,
+Honda,CR-V,2016,regular unleaded,,,,,,,,,
+Honda,CR-Z,2014,regular unleaded,,,,,,,,,
+Honda,CR-Z,2015,regular unleaded,,,,,,,,,
+Honda,CR-Z,2016,regular unleaded,,,,,,,,,
+Honda,Crosstour,2013,regular unleaded,,,,,,,,,
+Honda,Crosstour,2013,regular unleaded,,,,,,,,,
+Honda,Crosstour,2014,regular unleaded,,,,,,,,,
+Honda,Crosstour,2014,regular unleaded,,,,,,,,,
+Honda,Crosstour,2015,regular unleaded,,,,,,,,,
+Honda,Crosstour,2015,regular unleaded,,,,,,,,,
+Honda,Element,2009,regular unleaded,,,,,,,,,
+Honda,Element,2010,regular unleaded,,,,,,,,,
+Honda,Element,2011,regular unleaded,,,,,,,,,
+Honda,Fit EV,2013,electric,,,,,,,,,
+Honda,Fit EV,2014,electric,,,,,,,,,
+Honda,Fit,2015,regular unleaded,,,,,,,,,
+Honda,Fit,2016,regular unleaded,,,,,,,,,
+Honda,Fit,2017,regular unleaded,,,,,,,,,
+Honda,HR-V,2016,regular unleaded,,,,,,,,,
+Honda,HR-V,2017,regular unleaded,,,,,,,,,
+Honda,Insight,2012,regular unleaded,,,,,,,,,
+Honda,Insight,2013,regular unleaded,,,,,,,,,
+Honda,Insight,2014,regular unleaded,,,,,,,,,
+Honda,Odyssey,2015,regular unleaded,,,,,,,,,
+Honda,Odyssey,2016,regular unleaded,,,,,,,,,
+Honda,Passport,2000,regular unleaded,,,,,,,,,
+Honda,Passport,2001,regular unleaded,,,,,,,,,
+Honda,Passport,2002,regular unleaded,,,,,,,,,
+Honda,Pilot,2015,regular unleaded,,,,,,,,,
+Honda,Pilot,2016,regular unleaded,,,,,,,,,
+Honda,Pilot,2017,regular unleaded,,,,,,,,,
+Honda,Prelude,1999,regular unleaded,,,,,,,,,
+Honda,Prelude,2000,regular unleaded,,,,,,,,,
+Honda,Prelude,2001,premium unleaded (required),,,,,,,,,
+Honda,Prelude,2001,premium unleaded (required),,,,,,,,,
+Honda,Ridgeline,2013,regular unleaded,,,,,,,,,
+Honda,Ridgeline,2014,regular unleaded,,,,,,,,,
+Honda,Ridgeline,2017,regular unleaded,,,,,,,,,
+Honda,S2000,2007,premium unleaded (required),,,,,,,,,
+Honda,S2000,2008,premium unleaded (required),,,,,,,,,
+Honda,S2000,2009,premium unleaded (required),,,,,,,,,
+HUMMER,H3,2008,regular unleaded,,,,,,,,,
+HUMMER,H3,2008,regular unleaded,,,,,,,,,
+HUMMER,H3,2009,regular unleaded,,,,,,,,,
+HUMMER,H3,2009,regular unleaded,,,,,,,,,
+HUMMER,H3,2010,flex-fuel (unleaded/E85),,,,,,,,,
+HUMMER,H3,2010,regular unleaded,,,,,,,,,
+HUMMER,H3T,2009,regular unleaded,,,,,,,,,
+HUMMER,H3T,2009,regular unleaded,,,,,,,,,
+HUMMER,H3T,2010,flex-fuel (unleaded/E85),,,,,,,,,
+HUMMER,H3T,2010,regular unleaded,,,,,,,,,
+Hyundai,Accent,2014,regular unleaded,,,,,,,,,
+Hyundai,Accent,2015,regular unleaded,,,,,,,,,
+Hyundai,Accent,2016,regular unleaded,,,,,,,,,
+Hyundai,Azera,2015,regular unleaded,,,,,,,,,
+Hyundai,Azera,2016,regular unleaded,,,,,,,,,
+Hyundai,Azera,2017,regular unleaded,,,,,,,,,
+Hyundai,Elantra Coupe,2013,regular unleaded,,,,,,,,,
+Hyundai,Elantra Coupe,2013,regular unleaded,,,,,,,,,
+Hyundai,Elantra Coupe,2014,regular unleaded,,,,,,,,,
+Hyundai,Elantra Coupe,2014,regular unleaded,,,,,,,,,
+Hyundai,Elantra GT,2015,regular unleaded,,,,,,,,,
+Hyundai,Elantra GT,2016,regular unleaded,,,,,,,,,
+Hyundai,Elantra GT,2017,regular unleaded,,,,,,,,,
+Hyundai,Elantra Touring,2010,regular unleaded,,,,,,,,,
+Hyundai,Elantra Touring,2011,regular unleaded,,,,,,,,,
+Hyundai,Elantra Touring,2012,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2015,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2015,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2015,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2016,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2016,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2016,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2017,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2017,regular unleaded,,,,,,,,,
+Hyundai,Elantra,2017,regular unleaded,,,,,,,,,
+Hyundai,Entourage,2007,regular unleaded,,,,,,,,,
+Hyundai,Entourage,2008,regular unleaded,,,,,,,,,
+Hyundai,Equus,2014,premium unleaded (recommended),,,,,,,,,
+Hyundai,Equus,2015,premium unleaded (recommended),,,,,,,,,
+Hyundai,Equus,2016,premium unleaded (recommended),,,,,,,,,
+Hyundai,Excel,1992,regular unleaded,,,,,,,,,
+Hyundai,Excel,1993,regular unleaded,,,,,,,,,
+Hyundai,Excel,1994,regular unleaded,,,,,,,,,
+Hyundai,Genesis Coupe,2014,premium unleaded (recommended),,,,,,,,,
+Hyundai,Genesis Coupe,2014,premium unleaded (recommended),,,,,,,,,
+Hyundai,Genesis Coupe,2015,premium unleaded (recommended),,,,,,,,,
+Hyundai,Genesis Coupe,2016,premium unleaded (recommended),,,,,,,,,
+Hyundai,Genesis,2014,regular unleaded,,,,,,,,,
+Hyundai,Genesis,2014,premium unleaded (recommended),,,,,,,,,
+Hyundai,Genesis,2015,premium unleaded (recommended),,,,,,,,,
+Hyundai,Genesis,2015,regular unleaded,,,,,,,,,
+Hyundai,Genesis,2016,regular unleaded,,,,,,,,,
+Hyundai,Genesis,2016,premium unleaded (recommended),,,,,,,,,
+Hyundai,Santa Fe Sport,2015,regular unleaded,,,,,,,,,
+Hyundai,Santa Fe Sport,2015,regular unleaded,,,,,,,,,
+Hyundai,Santa Fe Sport,2016,regular unleaded,,,,,,,,,
+Hyundai,Santa Fe Sport,2016,regular unleaded,,,,,,,,,
+Hyundai,Santa Fe Sport,2017,regular unleaded,,,,,,,,,
+Hyundai,Santa Fe Sport,2017,regular unleaded,,,,,,,,,
+Hyundai,Santa Fe,2015,regular unleaded,,,,,,,,,
+Hyundai,Santa Fe,2016,regular unleaded,,,,,,,,,
+Hyundai,Santa Fe,2017,regular unleaded,,,,,,,,,
+Hyundai,Scoupe,1993,regular unleaded,,,,,,,,,
+Hyundai,Scoupe,1993,regular unleaded,,,,,,,,,
+Hyundai,Scoupe,1994,regular unleaded,,,,,,,,,
+Hyundai,Scoupe,1994,regular unleaded,,,,,,,,,
+Hyundai,Scoupe,1995,regular unleaded,,,,,,,,,
+Hyundai,Scoupe,1995,regular unleaded,,,,,,,,,
+Hyundai,Sonata Hybrid,2015,regular unleaded,,,,,,,,,
+Hyundai,Sonata Hybrid,2016,regular unleaded,,,,,,,,,
+Hyundai,Sonata Hybrid,2017,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2015,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2015,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2015,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2016,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2016,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2016,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2017,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2017,regular unleaded,,,,,,,,,
+Hyundai,Sonata,2017,regular unleaded,,,,,,,,,
+Hyundai,Tiburon,2006,regular unleaded,,,,,,,,,
+Hyundai,Tiburon,2006,regular unleaded,,,,,,,,,
+Hyundai,Tiburon,2007,regular unleaded,,,,,,,,,
+Hyundai,Tiburon,2007,regular unleaded,,,,,,,,,
+Hyundai,Tiburon,2008,regular unleaded,,,,,,,,,
+Hyundai,Tiburon,2008,regular unleaded,,,,,,,,,
+Hyundai,Tucson,2015,regular unleaded,,,,,,,,,
+Hyundai,Tucson,2015,regular unleaded,,,,,,,,,
+Hyundai,Tucson,2015,regular unleaded,,,,,,,,,
+Hyundai,Tucson,2016,regular unleaded,,,,,,,,,
+Hyundai,Tucson,2016,regular unleaded,,,,,,,,,
+Hyundai,Tucson,2017,regular unleaded,,,,,,,,,
+Hyundai,Tucson,2017,regular unleaded,,,,,,,,,
+Hyundai,Veloster,2014,regular unleaded,,,,,,,,,
+Hyundai,Veloster,2014,regular unleaded,,,,,,,,,
+Hyundai,Veloster,2014,regular unleaded,,,,,,,,,
+Hyundai,Veloster,2015,regular unleaded,,,,,,,,,
+Hyundai,Veloster,2015,regular unleaded,,,,,,,,,
+Hyundai,Veloster,2015,regular unleaded,,,,,,,,,
+Hyundai,Veloster,2016,regular unleaded,,,,,,,,,
+Hyundai,Veloster,2016,regular unleaded,,,,,,,,,
+Hyundai,Veracruz,2010,regular unleaded,,,,,,,,,
+Hyundai,Veracruz,2011,regular unleaded,,,,,,,,,
+Hyundai,Veracruz,2012,regular unleaded,,,,,,,,,
+Hyundai,XG300,2001,regular unleaded,,,,,,,,,
+Hyundai,XG350,2003,regular unleaded,,,,,,,,,
+Hyundai,XG350,2004,regular unleaded,,,,,,,,,
+Hyundai,XG350,2005,regular unleaded,,,,,,,,,
+Infiniti,M56,2011,premium unleaded (required),,,,,,,,,
+Kia,Amanti,2007,regular unleaded,,,,,,,,,
+Kia,Amanti,2008,regular unleaded,,,,,,,,,
+Kia,Amanti,2009,regular unleaded,,,,,,,,,
+Kia,Cadenza,2015,regular unleaded,,,,,,,,,
+Kia,Cadenza,2016,regular unleaded,,,,,,,,,
+Kia,Cadenza,2017,regular unleaded,,,,,,,,,
+Kia,Forte,2015,regular unleaded,,,,,,,,,
+Kia,Forte,2015,regular unleaded,,,,,,,,,
+Kia,Forte,2015,regular unleaded,,,,,,,,,
+Kia,Forte,2016,regular unleaded,,,,,,,,,
+Kia,Forte,2016,regular unleaded,,,,,,,,,
+Kia,Forte,2016,regular unleaded,,,,,,,,,
+Kia,Forte,2017,regular unleaded,,,,,,,,,
+Kia,Forte,2017,regular unleaded,,,,,,,,,
+Kia,Forte,2017,regular unleaded,,,,,,,,,
+Kia,K900,2015,premium unleaded (recommended),,,,,,,,,
+Kia,K900,2016,regular unleaded,,,,,,,,,
+Kia,K900,2016,premium unleaded (recommended),,,,,,,,,
+Kia,Optima Hybrid,2015,regular unleaded,,,,,,,,,
+Kia,Optima Hybrid,2016,regular unleaded,,,,,,,,,
+Kia,Optima Hybrid,2017,regular unleaded,,,,,,,,,
+Kia,Optima,2014,regular unleaded,,,,,,,,,
+Kia,Optima,2014,regular unleaded,,,,,,,,,
+Kia,Optima,2014,regular unleaded,,,,,,,,,
+Kia,Optima,2015,regular unleaded,,,,,,,,,
+Kia,Optima,2015,regular unleaded,,,,,,,,,
+Kia,Optima,2016,regular unleaded,,,,,,,,,
+Kia,Optima,2016,regular unleaded,,,,,,,,,
+Kia,Optima,2016,regular unleaded,,,,,,,,,
+Kia,Rio,2015,regular unleaded,,,,,,,,,
+Kia,Rio,2016,regular unleaded,,,,,,,,,
+Kia,Rio,2017,regular unleaded,,,,,,,,,
+Kia,Rondo,2007,regular unleaded,,,,,,,,,
+Kia,Rondo,2007,regular unleaded,,,,,,,,,
+Kia,Rondo,2008,regular unleaded,,,,,,,,,
+Kia,Rondo,2008,regular unleaded,,,,,,,,,
+Kia,Rondo,2009,regular unleaded,,,,,,,,,
+Kia,Rondo,2009,regular unleaded,,,,,,,,,
+Kia,Sedona,2015,regular unleaded,,,,,,,,,
+Kia,Sedona,2016,regular unleaded,,,,,,,,,
+Kia,Sedona,2017,regular unleaded,,,,,,,,,
+Kia,Sephia,1999,regular unleaded,,,,,,,,,
+Kia,Sephia,2000,regular unleaded,,,,,,,,,
+Kia,Sephia,2001,regular unleaded,,,,,,,,,
+Kia,Sorento,2015,regular unleaded,,,,,,,,,
+Kia,Sorento,2015,regular unleaded,,,,,,,,,
+Kia,Sorento,2016,regular unleaded,,,,,,,,,
+Kia,Sorento,2016,regular unleaded,,,,,,,,,
+Kia,Sorento,2016,regular unleaded,,,,,,,,,
+Kia,Sorento,2017,regular unleaded,,,,,,,,,
+Kia,Sorento,2017,regular unleaded,,,,,,,,,
+Kia,Sorento,2017,regular unleaded,,,,,,,,,
+Kia,Soul EV,2015,electric,,,,,,,,,
+Kia,Soul EV,2016,electric,,,,,,,,,
+Kia,Soul,2014,regular unleaded,,,,,,,,,
+Kia,Soul,2014,regular unleaded,,,,,,,,,
+Kia,Soul,2015,regular unleaded,,,,,,,,,
+Kia,Soul,2015,regular unleaded,,,,,,,,,
+Kia,Soul,2016,regular unleaded,,,,,,,,,
+Kia,Soul,2016,regular unleaded,,,,,,,,,
+Kia,Spectra,2007,regular unleaded,,,,,,,,,
+Kia,Spectra,2008,regular unleaded,,,,,,,,,
+Kia,Spectra,2009,regular unleaded,,,,,,,,,
+Kia,Sportage,2015,regular unleaded,,,,,,,,,
+Kia,Sportage,2015,regular unleaded,,,,,,,,,
+Kia,Sportage,2016,regular unleaded,,,,,,,,,
+Kia,Sportage,2016,regular unleaded,,,,,,,,,
+Kia,Sportage,2017,regular unleaded,,,,,,,,,
+Kia,Sportage,2017,regular unleaded,,,,,,,,,
+Kia,Sportage,2017,regular unleaded,,,,,,,,,
+Lamborghini,Diablo,2001,premium unleaded (required),,,,,,,,,
+Lamborghini,Huracan,2015,premium unleaded (required),,,,,,,,,
+Lamborghini,Huracan,2016,premium unleaded (required),,,,,,,,,
+Lamborghini,Huracan,2016,premium unleaded (required),,,,,,,,,
+Land Rover,Defender,1994,regular unleaded,,,,,,,,,
+Land Rover,Defender,1995,regular unleaded,,,,,,,,,
+Land Rover,Defender,1997,regular unleaded,,,,,,,,,
+Land Rover,Discovery Series II,2000,regular unleaded,,,,,,,,,
+Land Rover,Discovery Series II,2001,premium unleaded (required),,,,,,,,,
+Land Rover,Discovery Series II,2002,premium unleaded (required),,,,,,,,,
+Land Rover,Discovery Sport,2015,premium unleaded (recommended),,,,,,,,,
+Land Rover,Discovery Sport,2016,premium unleaded (recommended),,,,,,,,,
+Land Rover,Discovery Sport,2017,premium unleaded (recommended),,,,,,,,,
+Land Rover,Discovery,2003,premium unleaded (required),,,,,,,,,
+Land Rover,Discovery,2004,premium unleaded (required),,,,,,,,,
+Land Rover,Freelander,2003,regular unleaded,,,,,,,,,
+Land Rover,Freelander,2004,regular unleaded,,,,,,,,,
+Land Rover,Freelander,2005,regular unleaded,,,,,,,,,
+Land Rover,LR2,2013,premium unleaded (recommended),,,,,,,,,
+Land Rover,LR2,2014,premium unleaded (recommended),,,,,,,,,
+Land Rover,LR2,2015,premium unleaded (recommended),,,,,,,,,
+Land Rover,LR3,2008,premium unleaded (required),,,,,,,,,
+Land Rover,LR3,2009,premium unleaded (required),,,,,,,,,
+Land Rover,LR4,2014,premium unleaded (required),,,,,,,,,
+Land Rover,LR4,2015,premium unleaded (required),,,,,,,,,
+Land Rover,LR4,2016,premium unleaded (required),,,,,,,,,
+Land Rover,Range Rover Evoque,2015,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover Evoque,2016,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover Evoque,2017,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover Sport,2014,flex-fuel (premium unleaded required/E85),,,,,,,,,
+Land Rover,Range Rover Sport,2014,premium unleaded (required),,,,,,,,,
+Land Rover,Range Rover Sport,2015,flex-fuel (premium unleaded required/E85),,,,,,,,,
+Land Rover,Range Rover Sport,2015,flex-fuel (premium unleaded required/E85),,,,,,,,,
+Land Rover,Range Rover Sport,2015,flex-fuel (premium unleaded required/E85),,,,,,,,,
+Land Rover,Range Rover Sport,2016,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover Sport,2016,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover Sport,2016,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover Sport,2016,diesel,,,,,,,,,
+Land Rover,Range Rover,2014,flex-fuel (premium unleaded required/E85),,,,,,,,,
+Land Rover,Range Rover,2014,flex-fuel (premium unleaded required/E85),,,,,,,,,
+Land Rover,Range Rover,2015,flex-fuel (premium unleaded required/E85),,,,,,,,,
+Land Rover,Range Rover,2015,flex-fuel (premium unleaded required/E85),,,,,,,,,
+Land Rover,Range Rover,2016,diesel,,,,,,,,,
+Land Rover,Range Rover,2016,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover,2016,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover,2016,premium unleaded (recommended),,,,,,,,,
+Land Rover,Range Rover,2016,premium unleaded (recommended),,,,,,,,,
+Lexus,CT 200h,2015,regular unleaded,,,,,,,,,
+Lexus,CT 200h,2016,regular unleaded,,,,,,,,,
+Lexus,CT 200h,2017,regular unleaded,,,,,,,,,
+Lexus,ES 250,1990,regular unleaded,,,,,,,,,
+Lexus,ES 250,1991,regular unleaded,,,,,,,,,
+Lexus,ES 300h,2015,regular unleaded,,,,,,,,,
+Lexus,ES 300h,2016,regular unleaded,,,,,,,,,
+Lexus,ES 300h,2017,regular unleaded,,,,,,,,,
+Lexus,ES 300,2001,premium unleaded (required),,,,,,,,,
+Lexus,ES 300,2002,regular unleaded,,,,,,,,,
+Lexus,ES 300,2003,regular unleaded,,,,,,,,,
+Lexus,ES 330,2004,regular unleaded,,,,,,,,,
+Lexus,ES 330,2005,regular unleaded,,,,,,,,,
+Lexus,ES 330,2006,regular unleaded,,,,,,,,,
+Lexus,ES 350,2015,regular unleaded,,,,,,,,,
+Lexus,ES 350,2016,regular unleaded,,,,,,,,,
+Lexus,ES 350,2017,regular unleaded,,,,,,,,,
+Lexus,GS 200t,2016,premium unleaded (required),,,,,,,,,
+Lexus,GS 200t,2017,premium unleaded (required),,,,,,,,,
+Lexus,GS 300,2004,premium unleaded (required),,,,,,,,,
+Lexus,GS 300,2005,premium unleaded (required),,,,,,,,,
+Lexus,GS 300,2006,premium unleaded (required),,,,,,,,,
+Lexus,GS 350,2015,premium unleaded (required),,,,,,,,,
+Lexus,GS 350,2016,premium unleaded (required),,,,,,,,,
+Lexus,GS 350,2017,premium unleaded (required),,,,,,,,,
+Lexus,GS 400,1998,regular unleaded,,,,,,,,,
+Lexus,GS 400,1999,regular unleaded,,,,,,,,,
+Lexus,GS 400,2000,regular unleaded,,,,,,,,,
+Lexus,GS 430,2005,premium unleaded (required),,,,,,,,,
+Lexus,GS 430,2006,premium unleaded (required),,,,,,,,,
+Lexus,GS 430,2007,premium unleaded (required),,,,,,,,,
+Lexus,GS 450h,2014,premium unleaded (required),,,,,,,,,
+Lexus,GS 450h,2015,premium unleaded (required),,,,,,,,,
+Lexus,GS 450h,2016,premium unleaded (required),,,,,,,,,
+Lexus,GS 460,2009,premium unleaded (required),,,,,,,,,
+Lexus,GS 460,2010,premium unleaded (required),,,,,,,,,
+Lexus,GS 460,2011,premium unleaded (required),,,,,,,,,
+Lexus,GS F,2016,premium unleaded (required),,,,,,,,,
+Lexus,GX 460,2015,premium unleaded (required),,,,,,,,,
+Lexus,GX 460,2016,premium unleaded (required),,,,,,,,,
+Lexus,GX 460,2017,premium unleaded (required),,,,,,,,,
+Lexus,GX 470,2007,regular unleaded,,,,,,,,,
+Lexus,GX 470,2008,premium unleaded (required),,,,,,,,,
+Lexus,GX 470,2009,premium unleaded (required),,,,,,,,,
+Lexus,HS 250h,2010,regular unleaded,,,,,,,,,
+Lexus,HS 250h,2011,regular unleaded,,,,,,,,,
+Lexus,HS 250h,2012,regular unleaded,,,,,,,,,
+Lexus,IS 200t,2016,premium unleaded (required),,,,,,,,,
+Lexus,IS 200t,2017,premium unleaded (required),,,,,,,,,
+Lexus,IS 250 C,2013,premium unleaded (required),,,,,,,,,
+Lexus,IS 250 C,2014,premium unleaded (required),,,,,,,,,
+Lexus,IS 250 C,2015,premium unleaded (required),,,,,,,,,
+Lexus,IS 250,2013,premium unleaded (required),,,,,,,,,
+Lexus,IS 250,2014,premium unleaded (required),,,,,,,,,
+Lexus,IS 250,2015,premium unleaded (required),,,,,,,,,
+Lexus,IS 300,2005,premium unleaded (required),,,,,,,,,
+Lexus,IS 300,2016,premium unleaded (required),,,,,,,,,
+Lexus,IS 300,2017,premium unleaded (required),,,,,,,,,
+Lexus,IS 350 C,2013,premium unleaded (required),,,,,,,,,
+Lexus,IS 350 C,2014,premium unleaded (required),,,,,,,,,
+Lexus,IS 350 C,2015,premium unleaded (required),,,,,,,,,
+Lexus,IS 350,2014,premium unleaded (required),,,,,,,,,
+Lexus,IS 350,2015,premium unleaded (required),,,,,,,,,
+Lexus,IS 350,2016,premium unleaded (required),,,,,,,,,
+Lexus,IS F,2012,premium unleaded (required),,,,,,,,,
+Lexus,IS F,2013,premium unleaded (required),,,,,,,,,
+Lexus,IS F,2014,premium unleaded (required),,,,,,,,,
+Lexus,LS 400,1998,regular unleaded,,,,,,,,,
+Lexus,LS 400,1999,regular unleaded,,,,,,,,,
+Lexus,LS 400,2000,regular unleaded,,,,,,,,,
+Lexus,LS 430,2004,premium unleaded (required),,,,,,,,,
+Lexus,LS 430,2005,premium unleaded (required),,,,,,,,,
+Lexus,LS 430,2006,premium unleaded (required),,,,,,,,,
+Lexus,LS 460,2015,premium unleaded (required),,,,,,,,,
+Lexus,LS 460,2015,premium unleaded (required),,,,,,,,,
+Lexus,LS 460,2016,premium unleaded (required),,,,,,,,,
+Lexus,LS 460,2016,premium unleaded (required),,,,,,,,,
+Lexus,LS 460,2017,premium unleaded (required),,,,,,,,,
+Lexus,LS 460,2017,premium unleaded (required),,,,,,,,,
+Lexus,LS 600h L,2014,premium unleaded (required),,,,,,,,,
+Lexus,LS 600h L,2015,premium unleaded (required),,,,,,,,,
+Lexus,LS 600h L,2016,premium unleaded (required),,,,,,,,,
+Lexus,LX 450,1996,regular unleaded,,,,,,,,,
+Lexus,LX 450,1997,regular unleaded,,,,,,,,,
+Lexus,LX 470,2005,regular unleaded,,,,,,,,,
+Lexus,LX 470,2006,regular unleaded,,,,,,,,,
+Lexus,LX 470,2007,regular unleaded,,,,,,,,,
+Lexus,LX 570,2015,premium unleaded (recommended),,,,,,,,,
+Lexus,LX 570,2016,premium unleaded (recommended),,,,,,,,,
+Lexus,LX 570,2017,premium unleaded (recommended),,,,,,,,,
+Lexus,NX 200t,2015,premium unleaded (required),,,,,,,,,
+Lexus,NX 200t,2016,premium unleaded (required),,,,,,,,,
+Lexus,NX 200t,2017,premium unleaded (required),,,,,,,,,
+Lexus,NX 300h,2015,regular unleaded,,,,,,,,,
+Lexus,NX 300h,2016,regular unleaded,,,,,,,,,
+Lexus,NX 300h,2017,regular unleaded,,,,,,,,,
+Lexus,RC 200t,2016,premium unleaded (required),,,,,,,,,
+Lexus,RC 200t,2017,premium unleaded (required),,,,,,,,,
+Lexus,RC 300,2016,premium unleaded (required),,,,,,,,,
+Lexus,RC 300,2017,premium unleaded (required),,,,,,,,,
+Lexus,RC 350,2015,premium unleaded (required),,,,,,,,,
+Lexus,RC 350,2016,premium unleaded (required),,,,,,,,,
+Lexus,RC 350,2017,premium unleaded (required),,,,,,,,,
+Lexus,RC F,2015,premium unleaded (required),,,,,,,,,
+Lexus,RC F,2016,premium unleaded (required),,,,,,,,,
+Lexus,RC F,2017,premium unleaded (required),,,,,,,,,
+Lexus,RX 300,2001,premium unleaded (required),,,,,,,,,
+Lexus,RX 300,2002,regular unleaded,,,,,,,,,
+Lexus,RX 300,2003,regular unleaded,,,,,,,,,
+Lexus,RX 330,2004,regular unleaded,,,,,,,,,
+Lexus,RX 330,2005,regular unleaded,,,,,,,,,
+Lexus,RX 330,2006,regular unleaded,,,,,,,,,
+Lexus,RX 350,2015,regular unleaded,,,,,,,,,
+Lexus,RX 350,2016,regular unleaded,,,,,,,,,
+Lexus,RX 350,2017,regular unleaded,,,,,,,,,
+Lexus,RX 400h,2006,regular unleaded,,,,,,,,,
+Lexus,RX 400h,2007,regular unleaded,,,,,,,,,
+Lexus,RX 400h,2008,premium unleaded (required),,,,,,,,,
+Lexus,RX 450h,2015,premium unleaded (required),,,,,,,,,
+Lexus,RX 450h,2016,premium unleaded (recommended),,,,,,,,,
+Lexus,RX 450h,2017,premium unleaded (recommended),,,,,,,,,
+Lexus,SC 300,1998,regular unleaded,,,,,,,,,
+Lexus,SC 300,1999,regular unleaded,,,,,,,,,
+Lexus,SC 300,2000,regular unleaded,,,,,,,,,
+Lexus,SC 400,1998,regular unleaded,,,,,,,,,
+Lexus,SC 400,1999,regular unleaded,,,,,,,,,
+Lexus,SC 400,2000,regular unleaded,,,,,,,,,
+Lexus,SC 430,2008,premium unleaded (required),,,,,,,,,
+Lexus,SC 430,2009,premium unleaded (required),,,,,,,,,
+Lexus,SC 430,2010,premium unleaded (required),,,,,,,,,
+Lincoln,Blackwood,2002,premium unleaded (required),,,,,,,,,
+Maserati,Spyder,2003,premium unleaded (required),,,,,,,,,
+Mazda,2,2012,regular unleaded,,,,,,,,,
+Mazda,2,2013,regular unleaded,,,,,,,,,
+Mazda,2,2014,regular unleaded,,,,,,,,,
+Mazda,323,1992,regular unleaded,,,,,,,,,
+Mazda,323,1993,regular unleaded,,,,,,,,,
+Mazda,323,1994,regular unleaded,,,,,,,,,
+Mazda,3,2015,regular unleaded,,,,,,,,,
+Mazda,3,2015,regular unleaded,,,,,,,,,
+Mazda,3,2016,regular unleaded,,,,,,,,,
+Mazda,3,2016,regular unleaded,,,,,,,,,
+Mazda,3,2017,regular unleaded,,,,,,,,,
+Mazda,3,2017,regular unleaded,,,,,,,,,
+Mazda,5,2013,regular unleaded,,,,,,,,,
+Mazda,5,2014,regular unleaded,,,,,,,,,
+Mazda,5,2015,regular unleaded,,,,,,,,,
+Mazda,626,2000,regular unleaded,,,,,,,,,
+Mazda,626,2000,regular unleaded,,,,,,,,,
+Mazda,626,2001,premium unleaded (required),,,,,,,,,
+Mazda,626,2001,regular unleaded,,,,,,,,,
+Mazda,626,2002,premium unleaded (required),,,,,,,,,
+Mazda,626,2002,regular unleaded,,,,,,,,,
+Mazda,6,2015,regular unleaded,,,,,,,,,
+Mazda,6,2016,regular unleaded,,,,,,,,,
+Mazda,6,2017,regular unleaded,,,,,,,,,
+Mazda,929,1993,regular unleaded,,,,,,,,,
+Mazda,929,1994,regular unleaded,,,,,,,,,
+Mazda,929,1995,regular unleaded,,,,,,,,,
+Mazda,B-Series Pickup,1998,regular unleaded,,,,,,,,,
+Mazda,B-Series Pickup,1998,regular unleaded,,,,,,,,,
+Mazda,B-Series Pickup,1998,regular unleaded,,,,,,,,,
+Mazda,B-Series Pickup,1999,regular unleaded,,,,,,,,,
+Mazda,B-Series Pickup,1999,regular unleaded,,,,,,,,,
+Mazda,B-Series Pickup,1999,flex-fuel (unleaded/E85),,,,,,,,,
+Mazda,B-Series Pickup,2000,regular unleaded,,,,,,,,,
+Mazda,B-Series Pickup,2000,flex-fuel (unleaded/E85),,,,,,,,,
+Mazda,B-Series Pickup,2000,regular unleaded,,,,,,,,,
+Mazda,B-Series Truck,2007,regular unleaded,,,,,,,,,
+Mazda,B-Series Truck,2007,regular unleaded,,,,,,,,,
+Mazda,B-Series Truck,2007,regular unleaded,,,,,,,,,
+Mazda,B-Series Truck,2008,regular unleaded,,,,,,,,,
+Mazda,B-Series Truck,2008,regular unleaded,,,,,,,,,
+Mazda,B-Series Truck,2009,regular unleaded,,,,,,,,,
+Mazda,B-Series Truck,2009,regular unleaded,,,,,,,,,
+Mazda,B-Series,2001,regular unleaded,,,,,,,,,
+Mazda,B-Series,2001,regular unleaded,,,,,,,,,
+Mazda,B-Series,2001,regular unleaded,,,,,,,,,
+Mazda,B-Series,2001,regular unleaded,,,,,,,,,
+Mazda,CX-3,2016,regular unleaded,,,,,,,,,
+Mazda,CX-3,2017,regular unleaded,,,,,,,,,
+Mazda,CX-5,2014,regular unleaded,,,,,,,,,
+Mazda,CX-5,2014,regular unleaded,,,,,,,,,
+Mazda,CX-5,2015,regular unleaded,,,,,,,,,
+Mazda,CX-5,2015,regular unleaded,,,,,,,,,
+Mazda,CX-5,2016,regular unleaded,,,,,,,,,
+Mazda,CX-5,2016,regular unleaded,,,,,,,,,
+Mazda,CX-7,2010,premium unleaded (recommended),,,,,,,,,
+Mazda,CX-7,2010,regular unleaded,,,,,,,,,
+Mazda,CX-7,2011,premium unleaded (recommended),,,,,,,,,
+Mazda,CX-7,2011,regular unleaded,,,,,,,,,
+Mazda,CX-7,2012,premium unleaded (recommended),,,,,,,,,
+Mazda,CX-7,2012,regular unleaded,,,,,,,,,
+Mazda,CX-9,2014,regular unleaded,,,,,,,,,
+Mazda,CX-9,2015,regular unleaded,,,,,,,,,
+Mazda,CX-9,2016,regular unleaded,,,,,,,,,
+Mazda,Mazdaspeed 3,2011,premium unleaded (required),,,,,,,,,
+Mazda,Mazdaspeed 3,2012,premium unleaded (required),,,,,,,,,
+Mazda,Mazdaspeed 3,2013,premium unleaded (required),,,,,,,,,
+Mazda,Mazdaspeed 6,2006,premium unleaded (required),,,,,,,,,
+Mazda,Mazdaspeed 6,2007,premium unleaded (required),,,,,,,,,
+Mazda,Mazdaspeed MX-5 Miata,2004,premium unleaded (required),,,,,,,,,
+Mazda,Mazdaspeed MX-5 Miata,2005,premium unleaded (required),,,,,,,,,
+Mazda,Mazdaspeed Protege,2003,premium unleaded (required),,,,,,,,,
+Mazda,Millenia,2000,regular unleaded,,,,,,,,,
+Mazda,Millenia,2000,regular unleaded,,,,,,,,,
+Mazda,Millenia,2001,premium unleaded (required),,,,,,,,,
+Mazda,Millenia,2001,regular unleaded,,,,,,,,,
+Mazda,Millenia,2002,regular unleaded,,,,,,,,,
+Mazda,Millenia,2002,premium unleaded (required),,,,,,,,,
+Mazda,MPV,2004,regular unleaded,,,,,,,,,
+Mazda,MPV,2005,regular unleaded,,,,,,,,,
+Mazda,MPV,2006,regular unleaded,,,,,,,,,
+Mazda,MX-3,1993,regular unleaded,,,,,,,,,
+Mazda,MX-3,1993,regular unleaded,,,,,,,,,
+Mazda,MX-3,1994,regular unleaded,,,,,,,,,
+Mazda,MX-3,1994,regular unleaded,,,,,,,,,
+Mazda,MX-3,1995,regular unleaded,,,,,,,,,
+Mazda,MX-5 Miata,2014,premium unleaded (recommended),,,,,,,,,
+Mazda,MX-5 Miata,2014,premium unleaded (recommended),,,,,,,,,
+Mazda,MX-5 Miata,2015,premium unleaded (recommended),,,,,,,,,
+Mazda,MX-5 Miata,2015,premium unleaded (recommended),,,,,,,,,
+Mazda,MX-5 Miata,2016,premium unleaded (recommended),,,,,,,,,
+Mazda,MX-6,1995,regular unleaded,,,,,,,,,
+Mazda,MX-6,1995,regular unleaded,,,,,,,,,
+Mazda,MX-6,1996,regular unleaded,,,,,,,,,
+Mazda,MX-6,1996,regular unleaded,,,,,,,,,
+Mazda,MX-6,1997,regular unleaded,,,,,,,,,
+Mazda,MX-6,1997,regular unleaded,,,,,,,,,
+Mazda,Navajo,1992,regular unleaded,,,,,,,,,
+Mazda,Navajo,1993,regular unleaded,,,,,,,,,
+Mazda,Navajo,1994,regular unleaded,,,,,,,,,
+Mazda,Protege5,2002,regular unleaded,,,,,,,,,
+Mazda,Protege5,2003,regular unleaded,,,,,,,,,
+Mazda,Protege,2001,regular unleaded,,,,,,,,,
+Mazda,Protege,2001,regular unleaded,,,,,,,,,
+Mazda,Protege,2001,regular unleaded,,,,,,,,,
+Mazda,Protege,2002,regular unleaded,,,,,,,,,
+Mazda,Protege,2003,regular unleaded,,,,,,,,,
+Mazda,RX-7,1993,regular unleaded,,,,,,,,,
+Mazda,RX-7,1994,regular unleaded,,,,,,,,,
+Mazda,RX-7,1995,regular unleaded,,,,,,,,,
+Mazda,RX-8,2009,premium unleaded (required),,,,,,,,,
+Mazda,RX-8,2009,premium unleaded (required),,,,,,,,,
+Mazda,RX-8,2010,premium unleaded (required),,,,,,,,,
+Mazda,RX-8,2010,premium unleaded (required),,,,,,,,,
+Mazda,RX-8,2011,premium unleaded (required),,,,,,,,,
+Mazda,RX-8,2011,premium unleaded (required),,,,,,,,,
+Mazda,Tribute Hybrid,2008,regular unleaded,,,,,,,,,
+Mazda,Tribute Hybrid,2009,regular unleaded,,,,,,,,,
+Mazda,Tribute,2009,regular unleaded,,,,,,,,,
+Mazda,Tribute,2009,regular unleaded,,,,,,,,,
+Mazda,Tribute,2010,regular unleaded,,,,,,,,,
+Mazda,Tribute,2010,flex-fuel (unleaded/E85),,,,,,,,,
+Mazda,Tribute,2011,regular unleaded,,,,,,,,,
+Mazda,Tribute,2011,flex-fuel (unleaded/E85),,,,,,,,,
+Mazda,Truck,2002,regular unleaded,,,,,,,,,
+Mazda,Truck,2002,regular unleaded,,,,,,,,,
+Mazda,Truck,2002,regular unleaded,,,,,,,,,
+Mazda,Truck,2003,regular unleaded,,,,,,,,,
+Mazda,Truck,2003,regular unleaded,,,,,,,,,
+Mazda,Truck,2003,regular unleaded,,,,,,,,,
+McLaren,570S,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,190-Class,1991,regular unleaded,,,,,,,,,
+Mercedes-Benz,190-Class,1993,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1991,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1991,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1991,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1991,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1991,diesel,,,,,,,,,
+Mercedes-Benz,300-Class,1992,diesel,,,,,,,,,
+Mercedes-Benz,300-Class,1992,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1992,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1992,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1992,diesel,,,,,,,,,
+Mercedes-Benz,300-Class,1992,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1993,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1993,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1993,diesel,,,,,,,,,
+Mercedes-Benz,300-Class,1993,regular unleaded,,,,,,,,,
+Mercedes-Benz,300-Class,1993,diesel,,,,,,,,,
+Mercedes-Benz,300-Class,1993,regular unleaded,,,,,,,,,
+Mercedes-Benz,350-Class,1990,diesel,,,,,,,,,
+Mercedes-Benz,350-Class,1991,diesel,,,,,,,,,
+Mercedes-Benz,400-Class,1992,regular unleaded,,,,,,,,,
+Mercedes-Benz,400-Class,1992,regular unleaded,,,,,,,,,
+Mercedes-Benz,400-Class,1993,regular unleaded,,,,,,,,,
+Mercedes-Benz,420-Class,1990,regular unleaded,,,,,,,,,
+Mercedes-Benz,420-Class,1991,regular unleaded,,,,,,,,,
+Mercedes-Benz,500-Class,1991,regular unleaded,,,,,,,,,
+Mercedes-Benz,500-Class,1992,regular unleaded,,,,,,,,,
+Mercedes-Benz,500-Class,1993,regular unleaded,,,,,,,,,
+Mercedes-Benz,560-Class,1990,regular unleaded,,,,,,,,,
+Mercedes-Benz,560-Class,1991,regular unleaded,,,,,,,,,
+Mercedes-Benz,600-Class,1992,regular unleaded,,,,,,,,,
+Mercedes-Benz,600-Class,1993,regular unleaded,,,,,,,,,
+Mercedes-Benz,AMG GT,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,AMG GT,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,AMG GT,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,B-Class Electric Drive,2015,electric,,,,,,,,,
+Mercedes-Benz,B-Class Electric Drive,2016,electric,,,,,,,,,
+Mercedes-Benz,B-Class Electric Drive,2017,electric,,,,,,,,,
+Mercedes-Benz,C-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,C36 AMG,1995,regular unleaded,,,,,,,,,
+Mercedes-Benz,C36 AMG,1996,regular unleaded,,,,,,,,,
+Mercedes-Benz,C36 AMG,1997,regular unleaded,,,,,,,,,
+Mercedes-Benz,C43 AMG,1998,regular unleaded,,,,,,,,,
+Mercedes-Benz,C43 AMG,1999,regular unleaded,,,,,,,,,
+Mercedes-Benz,C43 AMG,2000,regular unleaded,,,,,,,,,
+Mercedes-Benz,CL-Class,2012,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2012,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2012,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2012,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CL-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLA-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLA-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLA-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLA-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLA-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLA-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2007,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2007,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2007,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2008,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2008,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2008,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2008,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2009,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLK-Class,2009,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLS-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLS-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLS-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLS-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLS-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLS-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLS-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,CLS-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2015,diesel,,,,,,,,,
+Mercedes-Benz,E-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2016,diesel,,,,,,,,,
+Mercedes-Benz,E-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,E55 AMG,1999,regular unleaded,,,,,,,,,
+Mercedes-Benz,E55 AMG,2000,regular unleaded,,,,,,,,,
+Mercedes-Benz,GL-Class,2014,diesel,,,,,,,,,
+Mercedes-Benz,GL-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GL-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GL-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GL-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GL-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GL-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GL-Class,2015,diesel,,,,,,,,,
+Mercedes-Benz,GL-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GL-Class,2016,diesel,,,,,,,,,
+Mercedes-Benz,GL-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GL-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLA-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLA-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLA-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLA-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLA-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLA-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLC-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLC-Class,2017,premium unleaded (recommended),,,,,,,,,
+Mercedes-Benz,GLE-Class Coupe,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class Coupe,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class Coupe,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class Coupe,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class,2016,diesel,,,,,,,,,
+Mercedes-Benz,GLE-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLE-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLK-Class,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLK-Class,2013,diesel,,,,,,,,,
+Mercedes-Benz,GLK-Class,2014,diesel,,,,,,,,,
+Mercedes-Benz,GLK-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLK-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLK-Class,2015,diesel,,,,,,,,,
+Mercedes-Benz,GLS-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLS-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,GLS-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2013,diesel,,,,,,,,,
+Mercedes-Benz,M-Class,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2014,diesel,,,,,,,,,
+Mercedes-Benz,M-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,M-Class,2015,diesel,,,,,,,,,
+Mercedes-Benz,M-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,Metris,2016,premium unleaded (recommended),,,,,,,,,
+Mercedes-Benz,R-Class,2010,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,R-Class,2010,diesel,,,,,,,,,
+Mercedes-Benz,R-Class,2011,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,R-Class,2011,diesel,,,,,,,,,
+Mercedes-Benz,R-Class,2012,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,R-Class,2012,diesel,,,,,,,,,
+Mercedes-Benz,S-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,S-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SL-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLC-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLC-Class,2017,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLK-Class,2016,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLR McLaren,2007,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLR McLaren,2008,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLR McLaren,2009,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLS AMG GT Final Edition,2015,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLS AMG GT,2013,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLS AMG GT,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLS AMG GT,2014,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLS AMG,2011,premium unleaded (required),,,,,,,,,
+Mercedes-Benz,SLS AMG,2012,premium unleaded (required),,,,,,,,,
+Mitsubishi,3000GT,1997,regular unleaded,,,,,,,,,
+Mitsubishi,3000GT,1997,regular unleaded,,,,,,,,,
+Mitsubishi,3000GT,1997,regular unleaded,,,,,,,,,
+Mitsubishi,3000GT,1998,regular unleaded,,,,,,,,,
+Mitsubishi,3000GT,1998,regular unleaded,,,,,,,,,
+Mitsubishi,3000GT,1998,regular unleaded,,,,,,,,,
+Mitsubishi,3000GT,1999,regular unleaded,,,,,,,,,
+Mitsubishi,3000GT,1999,regular unleaded,,,,,,,,,
+Mitsubishi,3000GT,1999,regular unleaded,,,,,,,,,
+Mitsubishi,Diamante,2002,premium unleaded (required),,,,,,,,,
+Mitsubishi,Diamante,2002,premium unleaded (required),,,,,,,,,
+Mitsubishi,Diamante,2003,premium unleaded (required),,,,,,,,,
+Mitsubishi,Diamante,2003,premium unleaded (required),,,,,,,,,
+Mitsubishi,Diamante,2004,premium unleaded (required),,,,,,,,,
+Mitsubishi,Diamante,2004,premium unleaded (required),,,,,,,,,
+Mitsubishi,Eclipse Spyder,2010,regular unleaded,,,,,,,,,
+Mitsubishi,Eclipse Spyder,2010,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Eclipse Spyder,2011,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Eclipse Spyder,2011,regular unleaded,,,,,,,,,
+Mitsubishi,Eclipse Spyder,2012,regular unleaded,,,,,,,,,
+Mitsubishi,Eclipse Spyder,2012,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Eclipse,2010,regular unleaded,,,,,,,,,
+Mitsubishi,Eclipse,2010,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Eclipse,2011,regular unleaded,,,,,,,,,
+Mitsubishi,Eclipse,2011,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Eclipse,2012,regular unleaded,,,,,,,,,
+Mitsubishi,Eclipse,2012,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Endeavor,2008,premium unleaded (required),,,,,,,,,
+Mitsubishi,Endeavor,2010,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Endeavor,2011,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Expo,1993,regular unleaded,,,,,,,,,
+Mitsubishi,Expo,1993,regular unleaded,,,,,,,,,
+Mitsubishi,Expo,1994,regular unleaded,,,,,,,,,
+Mitsubishi,Expo,1994,regular unleaded,,,,,,,,,
+Mitsubishi,Expo,1995,regular unleaded,,,,,,,,,
+Mitsubishi,Galant,2010,regular unleaded,,,,,,,,,
+Mitsubishi,Galant,2011,regular unleaded,,,,,,,,,
+Mitsubishi,Galant,2012,regular unleaded,,,,,,,,,
+Mitsubishi,i-MiEV,2014,electric,,,,,,,,,
+Mitsubishi,i-MiEV,2016,electric,,,,,,,,,
+Mitsubishi,i-MiEV,2017,electric,,,,,,,,,
+Mitsubishi,Lancer Evolution,2013,premium unleaded (required),,,,,,,,,
+Mitsubishi,Lancer Evolution,2014,premium unleaded (required),,,,,,,,,
+Mitsubishi,Lancer Evolution,2015,premium unleaded (required),,,,,,,,,
+Mitsubishi,Lancer Evolution,2015,premium unleaded (required),,,,,,,,,
+Mitsubishi,Lancer Sportback,2012,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer Sportback,2012,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer Sportback,2013,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer Sportback,2013,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer Sportback,2014,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer Sportback,2014,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer,2015,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer,2015,premium unleaded (required),,,,,,,,,
+Mitsubishi,Lancer,2015,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer,2016,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer,2016,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer,2017,regular unleaded,,,,,,,,,
+Mitsubishi,Lancer,2017,regular unleaded,,,,,,,,,
+Mitsubishi,Mighty Max Pickup,1994,regular unleaded,,,,,,,,,
+Mitsubishi,Mighty Max Pickup,1994,regular unleaded,,,,,,,,,
+Mitsubishi,Mighty Max Pickup,1995,regular unleaded,,,,,,,,,
+Mitsubishi,Mighty Max Pickup,1996,regular unleaded,,,,,,,,,
+Mitsubishi,Mirage G4,2017,regular unleaded,,,,,,,,,
+Mitsubishi,Mirage,2014,regular unleaded,,,,,,,,,
+Mitsubishi,Mirage,2015,regular unleaded,,,,,,,,,
+Mitsubishi,Mirage,2017,regular unleaded,,,,,,,,,
+Mitsubishi,Montero Sport,2002,regular unleaded,,,,,,,,,
+Mitsubishi,Montero Sport,2002,regular unleaded,,,,,,,,,
+Mitsubishi,Montero Sport,2003,regular unleaded,,,,,,,,,
+Mitsubishi,Montero Sport,2003,regular unleaded,,,,,,,,,
+Mitsubishi,Montero Sport,2004,regular unleaded,,,,,,,,,
+Mitsubishi,Montero,2004,regular unleaded,,,,,,,,,
+Mitsubishi,Montero,2005,regular unleaded,,,,,,,,,
+Mitsubishi,Montero,2006,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander Sport,2015,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander Sport,2015,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander Sport,2016,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander Sport,2016,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander Sport,2017,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander Sport,2017,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander,2015,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander,2015,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Outlander,2016,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Outlander,2016,regular unleaded,,,,,,,,,
+Mitsubishi,Outlander,2017,premium unleaded (recommended),,,,,,,,,
+Mitsubishi,Outlander,2017,regular unleaded,,,,,,,,,
+Mitsubishi,Precis,1992,regular unleaded,,,,,,,,,
+Mitsubishi,Raider,2007,regular unleaded,,,,,,,,,
+Mitsubishi,Raider,2007,regular unleaded,,,,,,,,,
+Mitsubishi,Raider,2008,regular unleaded,,,,,,,,,
+Mitsubishi,Raider,2009,regular unleaded,,,,,,,,,
+Mitsubishi,Vanwagon,1990,regular unleaded,,,,,,,,,
+Nissan,200SX,1996,regular unleaded,,,,,,,,,
+Nissan,200SX,1997,regular unleaded,,,,,,,,,
+Nissan,200SX,1998,regular unleaded,,,,,,,,,
+Nissan,240SX,1996,regular unleaded,,,,,,,,,
+Nissan,240SX,1997,regular unleaded,,,,,,,,,
+Nissan,240SX,1998,regular unleaded,,,,,,,,,
+Nissan,300ZX,1994,regular unleaded,,,,,,,,,
+Nissan,300ZX,1994,regular unleaded,,,,,,,,,
+Nissan,300ZX,1995,regular unleaded,,,,,,,,,
+Nissan,300ZX,1995,regular unleaded,,,,,,,,,
+Nissan,300ZX,1996,regular unleaded,,,,,,,,,
+Nissan,300ZX,1996,regular unleaded,,,,,,,,,
+Nissan,350Z,2007,regular unleaded,,,,,,,,,
+Nissan,350Z,2008,regular unleaded,,,,,,,,,
+Nissan,350Z,2009,regular unleaded,,,,,,,,,
+Nissan,370Z,2015,premium unleaded (required),,,,,,,,,
+Nissan,370Z,2015,premium unleaded (required),,,,,,,,,
+Nissan,370Z,2016,premium unleaded (required),,,,,,,,,
+Nissan,370Z,2016,premium unleaded (required),,,,,,,,,
+Nissan,370Z,2017,premium unleaded (required),,,,,,,,,
+Nissan,370Z,2017,premium unleaded (required),,,,,,,,,
+Nissan,Altima Hybrid,2009,regular unleaded,,,,,,,,,
+Nissan,Altima Hybrid,2010,regular unleaded,,,,,,,,,
+Nissan,Altima Hybrid,2011,regular unleaded,,,,,,,,,
+Nissan,Altima,2015,regular unleaded,,,,,,,,,
+Nissan,Altima,2015,regular unleaded,,,,,,,,,
+Nissan,Altima,2016,regular unleaded,,,,,,,,,
+Nissan,Altima,2016,regular unleaded,,,,,,,,,
+Nissan,Altima,2017,regular unleaded,,,,,,,,,
+Nissan,Altima,2017,regular unleaded,,,,,,,,,
+Nissan,Armada,2014,regular unleaded,,,,,,,,,
+Nissan,Armada,2015,regular unleaded,,,,,,,,,
+Nissan,Armada,2017,regular unleaded,,,,,,,,,
+Nissan,Axxess,1990,regular unleaded,,,,,,,,,
+Nissan,Cube,2012,regular unleaded,,,,,,,,,
+Nissan,Cube,2013,regular unleaded,,,,,,,,,
+Nissan,Cube,2014,regular unleaded,,,,,,,,,
+Nissan,Frontier,2015,regular unleaded,,,,,,,,,
+Nissan,Frontier,2015,regular unleaded,,,,,,,,,
+Nissan,Frontier,2016,regular unleaded,,,,,,,,,
+Nissan,Frontier,2016,regular unleaded,,,,,,,,,
+Nissan,Frontier,2017,regular unleaded,,,,,,,,,
+Nissan,Frontier,2017,regular unleaded,,,,,,,,,
+Nissan,GT-R,2015,premium unleaded (recommended),,,,,,,,,
+Nissan,GT-R,2015,premium unleaded (recommended),,,,,,,,,
+Nissan,GT-R,2016,premium unleaded (required),,,,,,,,,
+Nissan,GT-R,2016,premium unleaded (required),,,,,,,,,
+Nissan,GT-R,2017,premium unleaded (required),,,,,,,,,
+Nissan,Juke,2015,premium unleaded (recommended),,,,,,,,,
+Nissan,Juke,2015,premium unleaded (required),,,,,,,,,
+Nissan,Juke,2015,premium unleaded (required),,,,,,,,,
+Nissan,Juke,2016,premium unleaded (recommended),,,,,,,,,
+Nissan,Juke,2016,premium unleaded (required),,,,,,,,,
+Nissan,Juke,2016,premium unleaded (required),,,,,,,,,
+Nissan,Juke,2017,premium unleaded (required),,,,,,,,,
+Nissan,Juke,2017,premium unleaded (recommended),,,,,,,,,
+Nissan,Juke,2017,premium unleaded (required),,,,,,,,,
+Nissan,Leaf,2014,electric,,,,,,,,,
+Nissan,Leaf,2015,electric,,,,,,,,,
+Nissan,Leaf,2016,electric,,,,,,,,,
+Nissan,Maxima,2014,premium unleaded (recommended),,,,,,,,,
+Nissan,Maxima,2016,premium unleaded (recommended),,,,,,,,,
+Nissan,Maxima,2017,premium unleaded (recommended),,,,,,,,,
+Nissan,Murano CrossCabriolet,2012,premium unleaded (recommended),,,,,,,,,
+Nissan,Murano CrossCabriolet,2013,premium unleaded (recommended),,,,,,,,,
+Nissan,Murano CrossCabriolet,2014,premium unleaded (recommended),,,,,,,,,
+Nissan,Murano,2015,regular unleaded,,,,,,,,,
+Nissan,Murano,2016,regular unleaded,,,,,,,,,
+Nissan,Murano,2016,regular unleaded,,,,,,,,,
+Nissan,Murano,2017,regular unleaded,,,,,,,,,
+Nissan,NV200,2015,regular unleaded,,,,,,,,,
+Nissan,NV200,2016,regular unleaded,,,,,,,,,
+Nissan,NV200,2017,regular unleaded,,,,,,,,,
+Nissan,NX,1991,regular unleaded,,,,,,,,,
+Nissan,NX,1991,regular unleaded,,,,,,,,,
+Nissan,NX,1992,regular unleaded,,,,,,,,,
+Nissan,NX,1992,regular unleaded,,,,,,,,,
+Nissan,NX,1993,regular unleaded,,,,,,,,,
+Nissan,NX,1993,regular unleaded,,,,,,,,,
+Nissan,Pathfinder,2015,regular unleaded,,,,,,,,,
+Nissan,Pathfinder,2016,regular unleaded,,,,,,,,,
+Nissan,Pathfinder,2017,regular unleaded,,,,,,,,,
+Nissan,Pulsar,1990,regular unleaded,,,,,,,,,
+Nissan,Quest,2014,regular unleaded,,,,,,,,,
+Nissan,Quest,2015,regular unleaded,,,,,,,,,
+Nissan,Quest,2016,regular unleaded,,,,,,,,,
+Nissan,Rogue Select,2014,regular unleaded,,,,,,,,,
+Nissan,Rogue Select,2015,regular unleaded,,,,,,,,,
+Nissan,Rogue,2015,regular unleaded,,,,,,,,,
+Nissan,Rogue,2016,regular unleaded,,,,,,,,,
+Nissan,Rogue,2017,regular unleaded,,,,,,,,,
+Nissan,Sentra,2015,regular unleaded,,,,,,,,,
+Nissan,Sentra,2016,regular unleaded,,,,,,,,,
+Nissan,Sentra,2017,regular unleaded,,,,,,,,,
+Nissan,Sentra,2017,premium unleaded (recommended),,,,,,,,,
+Nissan,Sentra,2017,regular unleaded,,,,,,,,,
+Nissan,Titan,2014,regular unleaded,,,,,,,,,
+Nissan,Titan,2015,regular unleaded,,,,,,,,,
+Nissan,Titan,2017,regular unleaded,,,,,,,,,
+Nissan,Truck,1995,regular unleaded,,,,,,,,,
+Nissan,Truck,1995,regular unleaded,,,,,,,,,
+Nissan,Truck,1996,regular unleaded,,,,,,,,,
+Nissan,Truck,1997,regular unleaded,,,,,,,,,
+Nissan,Versa Note,2015,regular unleaded,,,,,,,,,
+Nissan,Versa Note,2016,regular unleaded,,,,,,,,,
+Nissan,Versa Note,2017,regular unleaded,,,,,,,,,
+Nissan,Versa,2015,regular unleaded,,,,,,,,,
+Nissan,Versa,2016,regular unleaded,,,,,,,,,
+Nissan,Versa,2017,regular unleaded,,,,,,,,,
+Nissan,Xterra,2013,regular unleaded,,,,,,,,,
+Nissan,Xterra,2014,regular unleaded,,,,,,,,,
+Nissan,Xterra,2015,regular unleaded,,,,,,,,,
+Pontiac,GTO,2006,premium unleaded (required),,,,,,,,,
+Porsche,911,2015,premium unleaded (required),,,,,,,,,
+Porsche,911,2015,premium unleaded (required),,,,,,,,,
+Porsche,911,2015,premium unleaded (required),,,,,,,,,
+Porsche,911,2015,premium unleaded (required),,,,,,,,,
+Porsche,911,2015,premium unleaded (required),,,,,,,,,
+Porsche,911,2015,premium unleaded (required),,,,,,,,,
+Porsche,911,2016,premium unleaded (required),,,,,,,,,
+Porsche,911,2016,premium unleaded (required),,,,,,,,,
+Porsche,911,2016,premium unleaded (required),,,,,,,,,
+Porsche,911,2016,premium unleaded (required),,,,,,,,,
+Porsche,911,2016,premium unleaded (required),,,,,,,,,
+Porsche,911,2016,premium unleaded (required),,,,,,,,,
+Porsche,911,2016,premium unleaded (required),,,,,,,,,
+Porsche,911,2017,premium unleaded (required),,,,,,,,,
+Porsche,911,2017,premium unleaded (required),,,,,,,,,
+Porsche,911,2017,premium unleaded (required),,,,,,,,,
+Porsche,911,2017,premium unleaded (required),,,,,,,,,
+Porsche,Macan,2015,premium unleaded (required),,,,,,,,,
+Porsche,Macan,2015,premium unleaded (required),,,,,,,,,
+Porsche,Macan,2016,premium unleaded (required),,,,,,,,,
+Porsche,Macan,2016,premium unleaded (required),,,,,,,,,
+Porsche,Macan,2017,premium unleaded (required),,,,,,,,,
+Porsche,Macan,2017,premium unleaded (required),,,,,,,,,
+Porsche,Macan,2017,premium unleaded (required),,,,,,,,,
+Spyker,C8,2009,premium unleaded (required),,,,,,,,,
+Subaru,B9 Tribeca,2006,premium unleaded (required),,,,,,,,,
+Subaru,B9 Tribeca,2007,premium unleaded (required),,,,,,,,,
+Subaru,Baja,2004,regular unleaded,,,,,,,,,
+Subaru,Baja,2004,premium unleaded (required),,,,,,,,,
+Subaru,Baja,2005,regular unleaded,,,,,,,,,
+Subaru,Baja,2005,premium unleaded (required),,,,,,,,,
+Subaru,Baja,2006,premium unleaded (required),,,,,,,,,
+Subaru,Baja,2006,regular unleaded,,,,,,,,,
+Subaru,BRZ,2015,premium unleaded (required),,,,,,,,,
+Subaru,BRZ,2016,premium unleaded (required),,,,,,,,,
+Subaru,BRZ,2017,premium unleaded (required),,,,,,,,,
+Subaru,BRZ,2017,premium unleaded (required),,,,,,,,,
+Subaru,Crosstrek,2016,regular unleaded,,,,,,,,,
+Subaru,Crosstrek,2016,regular unleaded,,,,,,,,,
+Subaru,Crosstrek,2017,regular unleaded,,,,,,,,,
+Subaru,Forester,2015,premium unleaded (required),,,,,,,,,
+Subaru,Forester,2015,regular unleaded,,,,,,,,,
+Subaru,Forester,2016,regular unleaded,,,,,,,,,
+Subaru,Forester,2016,premium unleaded (required),,,,,,,,,
+Subaru,Forester,2017,premium unleaded (required),,,,,,,,,
+Subaru,Forester,2017,regular unleaded,,,,,,,,,
+Subaru,Impreza WRX,2013,premium unleaded (required),,,,,,,,,
+Subaru,Impreza WRX,2013,premium unleaded (required),,,,,,,,,
+Subaru,Impreza WRX,2014,premium unleaded (required),,,,,,,,,
+Subaru,Impreza WRX,2014,premium unleaded (required),,,,,,,,,
+Subaru,Impreza,2015,regular unleaded,,,,,,,,,
+Subaru,Impreza,2016,regular unleaded,,,,,,,,,
+Subaru,Impreza,2017,regular unleaded,,,,,,,,,
+Subaru,Justy,1992,regular unleaded,,,,,,,,,
+Subaru,Justy,1992,regular unleaded,,,,,,,,,
+Subaru,Justy,1993,regular unleaded,,,,,,,,,
+Subaru,Justy,1994,regular unleaded,,,,,,,,,
+Subaru,Legacy,2015,regular unleaded,,,,,,,,,
+Subaru,Legacy,2015,regular unleaded,,,,,,,,,
+Subaru,Legacy,2016,regular unleaded,,,,,,,,,
+Subaru,Legacy,2016,regular unleaded,,,,,,,,,
+Subaru,Legacy,2017,regular unleaded,,,,,,,,,
+Subaru,Legacy,2017,regular unleaded,,,,,,,,,
+Subaru,Loyale,1992,regular unleaded,,,,,,,,,
+Subaru,Loyale,1993,regular unleaded,,,,,,,,,
+Subaru,Loyale,1994,regular unleaded,,,,,,,,,
+Subaru,Outback,2015,regular unleaded,,,,,,,,,
+Subaru,Outback,2015,regular unleaded,,,,,,,,,
+Subaru,Outback,2016,regular unleaded,,,,,,,,,
+Subaru,Outback,2016,regular unleaded,,,,,,,,,
+Subaru,Outback,2017,regular unleaded,,,,,,,,,
+Subaru,Outback,2017,regular unleaded,,,,,,,,,
+Subaru,SVX,1995,regular unleaded,,,,,,,,,
+Subaru,SVX,1996,regular unleaded,,,,,,,,,
+Subaru,SVX,1997,regular unleaded,,,,,,,,,
+Subaru,Tribeca,2012,regular unleaded,,,,,,,,,
+Subaru,Tribeca,2013,regular unleaded,,,,,,,,,
+Subaru,Tribeca,2014,regular unleaded,,,,,,,,,
+Subaru,WRX,2015,premium unleaded (required),,,,,,,,,
+Subaru,WRX,2015,premium unleaded (recommended),,,,,,,,,
+Subaru,WRX,2016,premium unleaded (required),,,,,,,,,
+Subaru,WRX,2016,premium unleaded (recommended),,,,,,,,,
+Subaru,WRX,2017,premium unleaded (required),,,,,,,,,
+Subaru,WRX,2017,premium unleaded (recommended),,,,,,,,,
+Subaru,XT,1991,regular unleaded,,,,,,,,,
+Subaru,XT,1991,regular unleaded,,,,,,,,,
+Subaru,XV Crosstrek,2013,regular unleaded,,,,,,,,,
+Subaru,XV Crosstrek,2014,regular unleaded,,,,,,,,,
+Subaru,XV Crosstrek,2014,regular unleaded,,,,,,,,,
+Subaru,XV Crosstrek,2015,regular unleaded,,,,,,,,,
+Subaru,XV Crosstrek,2015,regular unleaded,,,,,,,,,
+Suzuki,Aerio,2005,regular unleaded,,,,,,,,,
+Suzuki,Aerio,2006,regular unleaded,,,,,,,,,
+Suzuki,Aerio,2007,regular unleaded,,,,,,,,,
+Suzuki,Equator,2010,regular unleaded,,,,,,,,,
+Suzuki,Equator,2010,regular unleaded,,,,,,,,,
+Suzuki,Equator,2011,regular unleaded,,,,,,,,,
+Suzuki,Equator,2011,regular unleaded,,,,,,,,,
+Suzuki,Equator,2012,regular unleaded,,,,,,,,,
+Suzuki,Equator,2012,regular unleaded,,,,,,,,,
+Suzuki,Esteem,2000,regular unleaded,,,,,,,,,
+Suzuki,Esteem,2000,regular unleaded,,,,,,,,,
+Suzuki,Esteem,2001,regular unleaded,,,,,,,,,
+Suzuki,Esteem,2002,regular unleaded,,,,,,,,,
+Suzuki,Forenza,2006,regular unleaded,,,,,,,,,
+Suzuki,Forenza,2007,regular unleaded,,,,,,,,,
+Suzuki,Forenza,2008,regular unleaded,,,,,,,,,
+Suzuki,Grand Vitara,2011,regular unleaded,,,,,,,,,
+Suzuki,Grand Vitara,2012,regular unleaded,,,,,,,,,
+Suzuki,Grand Vitara,2013,regular unleaded,,,,,,,,,
+Suzuki,Kizashi,2011,regular unleaded,,,,,,,,,
+Suzuki,Kizashi,2011,regular unleaded,,,,,,,,,
+Suzuki,Kizashi,2012,regular unleaded,,,,,,,,,
+Suzuki,Kizashi,2012,regular unleaded,,,,,,,,,
+Suzuki,Kizashi,2013,regular unleaded,,,,,,,,,
+Suzuki,Kizashi,2013,regular unleaded,,,,,,,,,
+Suzuki,Reno,2006,regular unleaded,,,,,,,,,
+Suzuki,Reno,2007,regular unleaded,,,,,,,,,
+Suzuki,Reno,2008,regular unleaded,,,,,,,,,
+Suzuki,Samurai,1993,regular unleaded,,,,,,,,,
+Suzuki,Samurai,1994,regular unleaded,,,,,,,,,
+Suzuki,Samurai,1995,regular unleaded,,,,,,,,,
+Suzuki,Sidekick,1996,regular unleaded,,,,,,,,,
+Suzuki,Sidekick,1996,regular unleaded,,,,,,,,,
+Suzuki,Sidekick,1997,regular unleaded,,,,,,,,,
+Suzuki,Sidekick,1997,regular unleaded,,,,,,,,,
+Suzuki,Sidekick,1998,regular unleaded,,,,,,,,,
+Suzuki,Sidekick,1998,regular unleaded,,,,,,,,,
+Suzuki,Swift,1999,regular unleaded,,,,,,,,,
+Suzuki,Swift,2000,regular unleaded,,,,,,,,,
+Suzuki,Swift,2001,regular unleaded,,,,,,,,,
+Suzuki,SX4,2011,regular unleaded,,,,,,,,,
+Suzuki,SX4,2011,regular unleaded,,,,,,,,,
+Suzuki,SX4,2012,regular unleaded,,,,,,,,,
+Suzuki,SX4,2012,regular unleaded,,,,,,,,,
+Suzuki,SX4,2013,regular unleaded,,,,,,,,,
+Suzuki,SX4,2013,regular unleaded,,,,,,,,,
+Suzuki,Verona,2004,,,,,,,,,,
+Suzuki,Verona,2005,regular unleaded,,,,,,,,,
+Suzuki,Verona,2006,regular unleaded,,,,,,,,,
+Suzuki,Vitara,2002,regular unleaded,,,,,,,,,
+Suzuki,Vitara,2003,regular unleaded,,,,,,,,,
+Suzuki,Vitara,2004,regular unleaded,,,,,,,,,
+Suzuki,X-90,1996,regular unleaded,,,,,,,,,
+Suzuki,X-90,1997,regular unleaded,,,,,,,,,
+Suzuki,X-90,1998,regular unleaded,,,,,,,,,
+Suzuki,XL-7,2004,regular unleaded,,,,,,,,,
+Suzuki,XL-7,2005,regular unleaded,,,,,,,,,
+Suzuki,XL-7,2006,regular unleaded,,,,,,,,,
+Suzuki,XL7,2007,regular unleaded,,,,,,,,,
+Suzuki,XL7,2008,regular unleaded,,,,,,,,,
+Suzuki,XL7,2009,regular unleaded,,,,,,,,,
+Tesla,Model S,2014,electric,,,,,,,,,
+Tesla,Model S,2015,electric,,,,,,,,,
+Tesla,Model S,2016,electric,,,,,,,,,
+Toyota,4Runner,2014,regular unleaded,,,,,,,,,
+Toyota,4Runner,2015,regular unleaded,,,,,,,,,
+Toyota,4Runner,2016,regular unleaded,,,,,,,,,
+Toyota,86,2017,premium unleaded (recommended),,,,,,,,,
+Toyota,86,2017,premium unleaded (recommended),,,,,,,,,
+Toyota,Avalon Hybrid,2015,regular unleaded,,,,,,,,,
+Toyota,Avalon Hybrid,2016,regular unleaded,,,,,,,,,
+Toyota,Avalon Hybrid,2017,regular unleaded,,,,,,,,,
+Toyota,Avalon,2015,regular unleaded,,,,,,,,,
+Toyota,Avalon,2016,regular unleaded,,,,,,,,,
+Toyota,Avalon,2017,regular unleaded,,,,,,,,,
+Toyota,Camry Hybrid,2015,regular unleaded,,,,,,,,,
+Toyota,Camry Hybrid,2016,regular unleaded,,,,,,,,,
+Toyota,Camry Hybrid,2017,regular unleaded,,,,,,,,,
+Toyota,Camry Solara,2006,regular unleaded,,,,,,,,,
+Toyota,Camry Solara,2006,regular unleaded,,,,,,,,,
+Toyota,Camry Solara,2007,regular unleaded,,,,,,,,,
+Toyota,Camry Solara,2007,regular unleaded,,,,,,,,,
+Toyota,Camry Solara,2008,regular unleaded,,,,,,,,,
+Toyota,Camry Solara,2008,regular unleaded,,,,,,,,,
+Toyota,Camry,2015,regular unleaded,,,,,,,,,
+Toyota,Camry,2015,regular unleaded,,,,,,,,,
+Toyota,Camry,2016,regular unleaded,,,,,,,,,
+Toyota,Camry,2016,regular unleaded,,,,,,,,,
+Toyota,Camry,2017,regular unleaded,,,,,,,,,
+Toyota,Camry,2017,regular unleaded,,,,,,,,,
+Toyota,Celica,2003,regular unleaded,,,,,,,,,
+Toyota,Celica,2003,premium unleaded (required),,,,,,,,,
+Toyota,Celica,2004,regular unleaded,,,,,,,,,
+Toyota,Celica,2004,premium unleaded (required),,,,,,,,,
+Toyota,Celica,2005,regular unleaded,,,,,,,,,
+Toyota,Celica,2005,premium unleaded (required),,,,,,,,,
+Toyota,Corolla iM,2017,regular unleaded,,,,,,,,,
+Toyota,Corolla,2015,regular unleaded,,,,,,,,,
+Toyota,Corolla,2015,regular unleaded,,,,,,,,,
+Toyota,Corolla,2016,regular unleaded,,,,,,,,,
+Toyota,Corolla,2016,regular unleaded,,,,,,,,,
+Toyota,Corolla,2017,regular unleaded,,,,,,,,,
+Toyota,Corolla,2017,regular unleaded,,,,,,,,,
+Toyota,ECHO,2003,regular unleaded,,,,,,,,,
+Toyota,ECHO,2004,regular unleaded,,,,,,,,,
+Toyota,ECHO,2005,regular unleaded,,,,,,,,,
+Toyota,FJ Cruiser,2012,regular unleaded,,,,,,,,,
+Toyota,FJ Cruiser,2013,regular unleaded,,,,,,,,,
+Toyota,FJ Cruiser,2014,regular unleaded,,,,,,,,,
+Toyota,Highlander Hybrid,2014,regular unleaded,,,,,,,,,
+Toyota,Highlander Hybrid,2015,regular unleaded,,,,,,,,,
+Toyota,Highlander Hybrid,2016,regular unleaded,,,,,,,,,
+Toyota,Highlander,2015,regular unleaded,,,,,,,,,
+Toyota,Highlander,2015,regular unleaded,,,,,,,,,
+Toyota,Highlander,2016,regular unleaded,,,,,,,,,
+Toyota,Highlander,2016,regular unleaded,,,,,,,,,
+Toyota,Land Cruiser,2015,regular unleaded,,,,,,,,,
+Toyota,Land Cruiser,2016,regular unleaded,,,,,,,,,
+Toyota,Land Cruiser,2017,regular unleaded,,,,,,,,,
+Toyota,Matrix,2011,regular unleaded,,,,,,,,,
+Toyota,Matrix,2011,regular unleaded,,,,,,,,,
+Toyota,Matrix,2012,regular unleaded,,,,,,,,,
+Toyota,Matrix,2012,regular unleaded,,,,,,,,,
+Toyota,Matrix,2013,regular unleaded,,,,,,,,,
+Toyota,Matrix,2013,regular unleaded,,,,,,,,,
+Toyota,MR2 Spyder,2003,premium unleaded (required),,,,,,,,,
+Toyota,MR2 Spyder,2004,regular unleaded,,,,,,,,,
+Toyota,MR2 Spyder,2005,regular unleaded,,,,,,,,,
+Toyota,MR2,1993,regular unleaded,,,,,,,,,
+Toyota,MR2,1993,regular unleaded,,,,,,,,,
+Toyota,MR2,1994,regular unleaded,,,,,,,,,
+Toyota,MR2,1994,regular unleaded,,,,,,,,,
+Toyota,MR2,1995,regular unleaded,,,,,,,,,
+Toyota,MR2,1995,regular unleaded,,,,,,,,,
+Toyota,Paseo,1995,regular unleaded,,,,,,,,,
+Toyota,Paseo,1996,regular unleaded,,,,,,,,,
+Toyota,Paseo,1997,regular unleaded,,,,,,,,,
+Toyota,Pickup,1993,regular unleaded,,,,,,,,,
+Toyota,Pickup,1993,regular unleaded,,,,,,,,,
+Toyota,Pickup,1994,regular unleaded,,,,,,,,,
+Toyota,Pickup,1994,regular unleaded,,,,,,,,,
+Toyota,Pickup,1995,regular unleaded,,,,,,,,,
+Toyota,Pickup,1995,regular unleaded,,,,,,,,,
+Toyota,Previa,1995,regular unleaded,,,,,,,,,
+Toyota,Previa,1995,regular unleaded,,,,,,,,,
+Toyota,Previa,1996,regular unleaded,,,,,,,,,
+Toyota,Previa,1997,regular unleaded,,,,,,,,,
+Toyota,Prius c,2014,regular unleaded,,,,,,,,,
+Toyota,Prius c,2015,regular unleaded,,,,,,,,,
+Toyota,Prius c,2016,regular unleaded,,,,,,,,,
+Toyota,Prius Prime,2017,regular unleaded,,,,,,,,,
+Toyota,Prius v,2015,regular unleaded,,,,,,,,,
+Toyota,Prius v,2016,regular unleaded,,,,,,,,,
+Toyota,Prius v,2017,regular unleaded,,,,,,,,,
+Toyota,Prius,2015,regular unleaded,,,,,,,,,
+Toyota,Prius,2016,regular unleaded,,,,,,,,,
+Toyota,Prius,2017,regular unleaded,,,,,,,,,
+Toyota,RAV4 EV,2012,electric,,,,,,,,,
+Toyota,RAV4 EV,2013,electric,,,,,,,,,
+Toyota,RAV4 EV,2014,electric,,,,,,,,,
+Toyota,RAV4 Hybrid,2016,regular unleaded,,,,,,,,,
+Toyota,RAV4 Hybrid,2017,regular unleaded,,,,,,,,,
+Toyota,RAV4,2015,regular unleaded,,,,,,,,,
+Toyota,RAV4,2016,regular unleaded,,,,,,,,,
+Toyota,RAV4,2017,regular unleaded,,,,,,,,,
+Toyota,Sequoia,2015,regular unleaded,,,,,,,,,
+Toyota,Sequoia,2016,regular unleaded,,,,,,,,,
+Toyota,Sequoia,2017,regular unleaded,,,,,,,,,
+Toyota,Sienna,2015,regular unleaded,,,,,,,,,
+Toyota,Sienna,2016,regular unleaded,,,,,,,,,
+Toyota,Sienna,2017,regular unleaded,,,,,,,,,
+Toyota,Supra,1996,regular unleaded,,,,,,,,,
+Toyota,Supra,1996,regular unleaded,,,,,,,,,
+Toyota,Supra,1997,regular unleaded,,,,,,,,,
+Toyota,Supra,1997,regular unleaded,,,,,,,,,
+Toyota,Supra,1998,regular unleaded,,,,,,,,,
+Toyota,Supra,1998,regular unleaded,,,,,,,,,
+Toyota,T100,1996,regular unleaded,,,,,,,,,
+Toyota,T100,1996,regular unleaded,,,,,,,,,
+Toyota,T100,1997,regular unleaded,,,,,,,,,
+Toyota,T100,1997,regular unleaded,,,,,,,,,
+Toyota,T100,1998,regular unleaded,,,,,,,,,
+Toyota,T100,1998,regular unleaded,,,,,,,,,
+Toyota,Tacoma,2015,regular unleaded,,,,,,,,,
+Toyota,Tacoma,2015,regular unleaded,,,,,,,,,
+Toyota,Tacoma,2016,regular unleaded,,,,,,,,,
+Toyota,Tacoma,2016,regular unleaded,,,,,,,,,
+Toyota,Tacoma,2017,regular unleaded,,,,,,,,,
+Toyota,Tacoma,2017,regular unleaded,,,,,,,,,
+Toyota,Tercel,1996,regular unleaded,,,,,,,,,
+Toyota,Tercel,1997,regular unleaded,,,,,,,,,
+Toyota,Tercel,1998,regular unleaded,,,,,,,,,
+Toyota,Tundra,2015,regular unleaded,,,,,,,,,
+Toyota,Tundra,2015,regular unleaded,,,,,,,,,
+Toyota,Tundra,2016,regular unleaded,,,,,,,,,
+Toyota,Tundra,2016,regular unleaded,,,,,,,,,
+Toyota,Tundra,2017,regular unleaded,,,,,,,,,
+Toyota,Tundra,2017,regular unleaded,,,,,,,,,
+Toyota,Venza,2013,regular unleaded,,,,,,,,,
+Toyota,Venza,2013,regular unleaded,,,,,,,,,
+Toyota,Venza,2014,regular unleaded,,,,,,,,,
+,Venza,2014,regular unleaded,,,,,,,,,
+Toyota,Venza,2015,regular unleaded,,,,,,,,,
+Toyota,Venza,2015,regular unleaded,,,,,,,,,
+Toyota,Yaris iA,2017,regular unleaded,,,,,,,,,
+Toyota,Yaris,2015,regular unleaded,,,,,,,,,
+Toyota,Yaris,2016,regular unleaded,,,,,,,,,
+Toyota,Yaris,2017,regular unleaded,,,,,,,,,
+Volkswagen,Beetle Convertible,2014,regular unleaded,,,,,,,,,
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Beetle Convertible,2014,diesel,,,,,,,,,
+Volkswagen,Beetle Convertible,2015,diesel,,,,,,,,,
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Beetle Convertible,2015,regular unleaded,,,,,,,,,
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Beetle Convertible,2016,regular unleaded,,,,,,,,,
+Volkswagen,Beetle,2015,diesel,,,,,,,,,
+Volkswagen,Beetle,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Beetle,2015,regular unleaded,,,,,,,,,
+Volkswagen,Beetle,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Beetle,2016,regular unleaded,,,,,,,,,
+Volkswagen,Beetle,2017,regular unleaded,,,,,,,,,
+Volkswagen,Beetle,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Cabriolet,1991,regular unleaded,,,,,,,,,
+Volkswagen,Cabriolet,1992,regular unleaded,,,,,,,,,
+Volkswagen,Cabriolet,1993,regular unleaded,,,,,,,,,
+Volkswagen,Cabrio,2000,regular unleaded,,,,,,,,,
+Volkswagen,Cabrio,2001,regular unleaded,,,,,,,,,
+Volkswagen,Cabrio,2002,regular unleaded,,,,,,,,,
+Volkswagen,CC,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,CC,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,CC,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,CC,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,CC,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Corrado,1992,regular unleaded,,,,,,,,,
+Volkswagen,Corrado,1992,regular unleaded,,,,,,,,,
+Volkswagen,Corrado,1993,regular unleaded,,,,,,,,,
+Volkswagen,Corrado,1994,regular unleaded,,,,,,,,,
+Volkswagen,e-Golf,2015,electric,,,,,,,,,
+Volkswagen,e-Golf,2016,electric,,,,,,,,,
+Volkswagen,Eos,2014,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Eos,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Eos,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,EuroVan,2001,premium unleaded (required),,,,,,,,,
+Volkswagen,EuroVan,2002,premium unleaded (recommended),,,,,,,,,
+Volkswagen,EuroVan,2003,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Fox,1991,regular unleaded,,,,,,,,,
+Volkswagen,Fox,1992,regular unleaded,,,,,,,,,
+Volkswagen,Fox,1993,regular unleaded,,,,,,,,,
+Volkswagen,GLI,2008,premium unleaded (required),,,,,,,,,
+Volkswagen,GLI,2009,premium unleaded (recommended),,,,,,,,,
+Volkswagen,GLI,2012,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf Alltrack,2017,regular unleaded,,,,,,,,,
+Volkswagen,Golf GTI,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf GTI,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf GTI,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf GTI,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf GTI,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf GTI,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf R,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf R,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf R,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Golf SportWagen,2015,diesel,,,,,,,,,
+Volkswagen,Golf SportWagen,2015,regular unleaded,,,,,,,,,
+Volkswagen,Golf SportWagen,2016,regular unleaded,,,,,,,,,
+Volkswagen,Golf SportWagen,2017,regular unleaded,,,,,,,,,
+Volkswagen,Golf,2015,diesel,,,,,,,,,
+Volkswagen,Golf,2015,regular unleaded,,,,,,,,,
+Volkswagen,Golf,2016,regular unleaded,,,,,,,,,
+Volkswagen,Golf,2017,regular unleaded,,,,,,,,,
+Volkswagen,GTI,2012,premium unleaded (recommended),,,,,,,,,
+Volkswagen,GTI,2013,premium unleaded (recommended),,,,,,,,,
+Volkswagen,GTI,2014,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Jetta GLI,2013,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Jetta GLI,2013,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Jetta GLI,2014,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Jetta Hybrid,2013,premium unleaded (required),,,,,,,,,
+Volkswagen,Jetta Hybrid,2014,premium unleaded (required),,,,,,,,,
+Volkswagen,Jetta SportWagen,2012,regular unleaded,,,,,,,,,
+Volkswagen,Jetta SportWagen,2012,diesel,,,,,,,,,
+Volkswagen,Jetta SportWagen,2013,regular unleaded,,,,,,,,,
+Volkswagen,Jetta SportWagen,2013,diesel,,,,,,,,,
+Volkswagen,Jetta SportWagen,2014,regular unleaded,,,,,,,,,
+Volkswagen,Jetta SportWagen,2014,diesel,,,,,,,,,
+Volkswagen,Jetta,2015,regular unleaded,,,,,,,,,
+Volkswagen,Jetta,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Jetta,2015,diesel,,,,,,,,,
+Volkswagen,Jetta,2015,regular unleaded,,,,,,,,,
+Volkswagen,Jetta,2016,regular unleaded,,,,,,,,,
+Volkswagen,Jetta,2016,regular unleaded,,,,,,,,,
+Volkswagen,Jetta,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Jetta,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Jetta,2017,regular unleaded,,,,,,,,,
+Volkswagen,Jetta,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,New Beetle,2008,regular unleaded,,,,,,,,,
+Volkswagen,New Beetle,2009,regular unleaded,,,,,,,,,
+Volkswagen,New Beetle,2010,regular unleaded,,,,,,,,,
+Volkswagen,Passat,2015,regular unleaded,,,,,,,,,
+Volkswagen,Passat,2015,diesel,,,,,,,,,
+Volkswagen,Passat,2015,premium unleaded (required),,,,,,,,,
+Volkswagen,Passat,2016,regular unleaded,,,,,,,,,
+Volkswagen,Passat,2016,premium unleaded (required),,,,,,,,,
+Volkswagen,Passat,2017,premium unleaded (required),,,,,,,,,
+Volkswagen,Passat,2017,regular unleaded,,,,,,,,,
+Volkswagen,Phaeton,2004,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Phaeton,2004,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Phaeton,2005,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Phaeton,2005,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Phaeton,2006,premium unleaded (required),,,,,,,,,
+Volkswagen,Phaeton,2006,premium unleaded (required),,,,,,,,,
+Volkswagen,R32,2004,premium unleaded (recommended),,,,,,,,,
+Volkswagen,R32,2008,premium unleaded (required),,,,,,,,,
+Volkswagen,Rabbit,2007,regular unleaded,,,,,,,,,
+Volkswagen,Rabbit,2008,regular unleaded,,,,,,,,,
+Volkswagen,Rabbit,2009,regular unleaded,,,,,,,,,
+Volkswagen,Routan,2010,regular unleaded,,,,,,,,,
+Volkswagen,Routan,2010,regular unleaded,,,,,,,,,
+Volkswagen,Routan,2011,regular unleaded,,,,,,,,,
+Volkswagen,Routan,2012,flex-fuel (unleaded/E85),,,,,,,,,
+Volkswagen,Tiguan,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Tiguan,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Tiguan,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Touareg 2,2008,premium unleaded (required),,,,,,,,,
+Volkswagen,Touareg 2,2008,premium unleaded (required),,,,,,,,,
+Volkswagen,Touareg 2,2008,diesel,,,,,,,,,
+Volkswagen,Touareg 2,2009,diesel,,,,,,,,,
+Volkswagen,Touareg 2,2009,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Touareg 2,2009,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Touareg,2015,diesel,,,,,,,,,
+Volkswagen,Touareg,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Touareg,2015,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Touareg,2016,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Touareg,2016,diesel,,,,,,,,,
+Volkswagen,Touareg,2017,premium unleaded (recommended),,,,,,,,,
+Volkswagen,Vanagon,1990,regular unleaded,,,,,,,,,
+Volkswagen,Vanagon,1991,regular unleaded,,,,,,,,,
+Volvo,240,1991,regular unleaded,,,,,,,,,
+Volvo,240,1992,regular unleaded,,,,,,,,,
+Volvo,240,1993,regular unleaded,,,,,,,,,
+Volvo,740,1990,regular unleaded,,,,,,,,,
+Volvo,740,1990,regular unleaded,,,,,,,,,
+Volvo,740,1991,,,,,,,,,,
+Volvo,740,1991,regular unleaded,,,,,,,,,
+Volvo,740,1992,regular unleaded,,,,,,,,,
+Volvo,740,1992,regular unleaded,,,,,,,,,
+Volvo,760,1990,regular unleaded,,,,,,,,,
+Volvo,760,1990,regular unleaded,,,,,,,,,
+Volvo,780,1990,regular unleaded,,,,,,,,,
+Volvo,780,1990,regular unleaded,,,,,,,,,
+Volvo,850,1995,regular unleaded,,,,,,,,,
+Volvo,850,1995,regular unleaded,,,,,,,,,
+Volvo,850,1995,regular unleaded,,,,,,,,,
+Volvo,850,1996,regular unleaded,,,,,,,,,
+Volvo,850,1996,regular unleaded,,,,,,,,,
+Volvo,850,1996,regular unleaded,,,,,,,,,
+Volvo,850,1997,regular unleaded,,,,,,,,,
+Volvo,850,1997,regular unleaded,,,,,,,,,
+Volvo,850,1997,regular unleaded,,,,,,,,,
+Volvo,850,1997,regular unleaded,,,,,,,,,
+Volvo,940,1993,regular unleaded,,,,,,,,,
+Volvo,940,1993,regular unleaded,,,,,,,,,
+Volvo,940,1994,regular unleaded,,,,,,,,,
+Volvo,940,1994,regular unleaded,,,,,,,,,
+Volvo,940,1995,regular unleaded,,,,,,,,,
+Volvo,940,1995,regular unleaded,,,,,,,,,
+Volvo,960,1995,regular unleaded,,,,,,,,,
+Volvo,960,1996,regular unleaded,,,,,,,,,
+Volvo,960,1997,regular unleaded,,,,,,,,,
+Volvo,C30,2011,premium unleaded (recommended),,,,,,,,,
+Volvo,C30,2012,premium unleaded (recommended),,,,,,,,,
+Volvo,C30,2013,regular unleaded,,,,,,,,,
+Volvo,C70,2011,premium unleaded (recommended),,,,,,,,,
+Volvo,C70,2012,premium unleaded (recommended),,,,,,,,,
+Volvo,C70,2013,regular unleaded,,,,,,,,,
+Volvo,Coupe,1991,regular unleaded,,,,,,,,,
+Volvo,S40,2009,premium unleaded (recommended),,,,,,,,,
+Volvo,S40,2009,premium unleaded (recommended),,,,,,,,,
+Volvo,S40,2010,premium unleaded (recommended),,,,,,,,,
+Volvo,S40,2010,premium unleaded (recommended),,,,,,,,,
+Volvo,S40,2011,regular unleaded,,,,,,,,,
+Volvo,S60 Cross Country,2017,regular unleaded,,,,,,,,,
+Volvo,S60,2015,regular unleaded,,,,,,,,,
+Volvo,S60,2015,regular unleaded,,,,,,,,,
+Volvo,S60,2015,regular unleaded,,,,,,,,,
+Volvo,S60,2015,regular unleaded,,,,,,,,,
+Volvo,S60,2016,regular unleaded,,,,,,,,,
+Volvo,S60,2016,regular unleaded,,,,,,,,,
+Volvo,S60,2016,regular unleaded,,,,,,,,,
+Volvo,S60,2016,regular unleaded,,,,,,,,,
+Volvo,S60,2016,regular unleaded,,,,,,,,,
+Volvo,S60,2017,regular unleaded,,,,,,,,,
+Volvo,S60,2017,regular unleaded,,,,,,,,,
+Volvo,S70,1998,regular unleaded,,,,,,,,,
+Volvo,S70,1998,regular unleaded,,,,,,,,,
+Volvo,S70,1998,regular unleaded,,,,,,,,,
+Volvo,S70,1999,regular unleaded,,,,,,,,,
+Volvo,S70,1999,regular unleaded,,,,,,,,,
+Volvo,S70,1999,regular unleaded,,,,,,,,,
+Volvo,S70,2000,regular unleaded,,,,,,,,,
+Volvo,S70,2000,regular unleaded,,,,,,,,,
+Volvo,S70,2000,regular unleaded,,,,,,,,,
+Volvo,S80,2014,regular unleaded,,,,,,,,,
+Volvo,S80,2014,regular unleaded,,,,,,,,,
+Volvo,S80,2015,regular unleaded,,,,,,,,,
+Volvo,S80,2015,regular unleaded,,,,,,,,,
+Volvo,S80,2016,regular unleaded,,,,,,,,,
+Volvo,S90,1998,regular unleaded,,,,,,,,,
+Volvo,S90,2017,premium unleaded (recommended),,,,,,,,,
+Volvo,S90,2017,premium unleaded (recommended),,,,,,,,,
+Volvo,V40,2002,premium unleaded (required),,,,,,,,,
+Volvo,V40,2003,premium unleaded (required),,,,,,,,,
+Volvo,V40,2004,premium unleaded (required),,,,,,,,,
+Volvo,V50,2009,premium unleaded (recommended),,,,,,,,,
+Volvo,V50,2009,premium unleaded (recommended),,,,,,,,,
+Volvo,V50,2010,premium unleaded (recommended),,,,,,,,,
+Volvo,V50,2010,premium unleaded (recommended),,,,,,,,,
+Volvo,V50,2011,regular unleaded,,,,,,,,,
+Volvo,V60 Cross Country,2015,regular unleaded,,,,,,,,,
+Volvo,V60 Cross Country,2016,regular unleaded,,,,,,,,,
+Volvo,V60 Cross Country,2017,regular unleaded,,,,,,,,,
+Volvo,V60,2015,regular unleaded,,,,,,,,,
+Volvo,V60,2015,regular unleaded,,,,,,,,,
+Volvo,V60,2015,regular unleaded,,,,,,,,,
+Volvo,V60,2016,regular unleaded,,,,,,,,,
+Volvo,V60,2016,regular unleaded,,,,,,,,,
+Volvo,V60,2016,regular unleaded,,,,,,,,,
+Volvo,V60,2016,regular unleaded,,,,,,,,,
+Volvo,V60,2016,regular unleaded,,,,,,,,,
+Volvo,V60,2017,regular unleaded,,,,,,,,,
+Volvo,V60,2017,regular unleaded,,,,,,,,,
+Volvo,V70,2008,premium unleaded (recommended),,,,,,,,,
+Volvo,V70,2009,premium unleaded (recommended),,,,,,,,,
+Volvo,V70,2010,premium unleaded (recommended),,,,,,,,,
+Volvo,V90,1998,regular unleaded,,,,,,,,,
+Volvo,XC60,2015,regular unleaded,,,,,,,,,
+Volvo,XC60,2015,regular unleaded,,,,,,,,,
+Volvo,XC60,2015,regular unleaded,,,,,,,,,
+Volvo,XC60,2015,regular unleaded,,,,,,,,,
+Volvo,XC60,2015,regular unleaded,,,,,,,,,
+Volvo,XC60,2016,regular unleaded,,,,,,,,,
+Volvo,XC60,2016,regular unleaded,,,,,,,,,
+Volvo,XC60,2016,regular unleaded,,,,,,,,,
+Volvo,XC60,2016,regular unleaded,,,,,,,,,
+Volvo,XC60,2016,regular unleaded,,,,,,,,,
+Volvo,XC60,2017,regular unleaded,,,,,,,,,
+Volvo,XC60,2017,regular unleaded,,,,,,,,,
+Volvo,XC70,2014,regular unleaded,,,,,,,,,
+Volvo,XC70,2014,regular unleaded,,,,,,,,,
+Volvo,XC70,2015,regular unleaded,,,,,,,,,
+Volvo,XC70,2015,regular unleaded,,,,,,,,,
+Volvo,XC70,2016,regular unleaded,,,,,,,,,
+Volvo,XC70,2016,regular unleaded,,,,,,,,,
+Volvo,XC90,2014,regular unleaded,,,,,,,,,
+Volvo,XC90,2016,premium unleaded (recommended),,,,,,,,,
+Volvo,XC90,2016,premium unleaded (recommended),,,,,,,,,
+Volvo,XC90,2017,premium unleaded (recommended),,,,,,,,,
+Volvo,XC90,2017,premium unleaded (recommended),,,,,,,,,
+Volvo,XC,2002,premium unleaded (required),,,,,,,,,
+regular unleaded,,,,,,,,,,,,
+Midsize,,,,,,,,,,,,
